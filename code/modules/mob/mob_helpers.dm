@@ -101,6 +101,7 @@
  * This proc is dangerously laggy, avoid it or die
  */
 /proc/stars(phrase, probability = 25)
+/*// NEMESIS EDIT REMOVAL START
 	if(probability <= 0)
 		return phrase
 	phrase = html_decode(phrase)
@@ -114,6 +115,10 @@
 		else
 			. += "*"
 	return sanitize(.)
+*/// NEMESIS EDIT REMOVAL END
+// NEMESIS EDIT ADDITION START
+	return RUSTLIB_CALL(random_replace, phrase, probability, "*")
+// NEMESIS EDIT ADDITION END
 
 /**
  * For when you're only able to speak a limited amount of words

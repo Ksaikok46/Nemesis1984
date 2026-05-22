@@ -16,17 +16,14 @@
 
 /proc/__detect_rustlib()
 	if(world.system_type == UNIX)
-#ifdef CIBUILDING
-		// CI override, use librustlibs_ci.so if possible.
-		if(fexists("./tools/ci/librustlibs_ci.so"))
-			return __rustlib = "tools/ci/librustlibs_ci.so"
-#endif
 		// First check if it's built in the usual place.
 		// Linx doesnt get the version suffix because if youre using linux you can figure out what server version youre running for
 		if(fexists("./rust/target/i686-unknown-linux-gnu/release/librustlibs[RUSTLIBS_SUFFIX].so"))
+			SEND_TEXT(world.log, "Selected lib ./rust/target/i686-unknown-linux-gnu/release/librustlibs[RUSTLIBS_SUFFIX].so")
 			return __rustlib = "./rust/target/i686-unknown-linux-gnu/release/librustlibs[RUSTLIBS_SUFFIX].so"
 		// Then check in the current directory.
 		if(fexists("./librustlibs[RUSTLIBS_SUFFIX].so"))
+			SEND_TEXT(world.log, "Selected lib librustlibs[RUSTLIBS_SUFFIX].so")
 			return __rustlib = "./librustlibs[RUSTLIBS_SUFFIX].so"
 		// And elsewhere.
 		return __rustlib = "librustlibs[RUSTLIBS_SUFFIX].so"
@@ -48,7 +45,7 @@
 		// This being spanned over multiple lines is kinda scuffed, but its needed because of https://www.byond.com/forum/post/2072419
 		return assignment_confirmed
 
-#define RUSTLIB (__rustlib || __detect_rustlib())
+#define RUSTLIB (__rustlib)
 #define RUSTLIB_CALL(func, args...) call_ext(RUSTLIB, "byond:[#func]_ffi")(args)
 
 /// Exists by default in 516, but needs to be defined for 515 or byondapi-rs doesn't like it.

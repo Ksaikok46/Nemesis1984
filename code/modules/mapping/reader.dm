@@ -181,7 +181,20 @@
 	// Love ya :)
 	if(isfile(tfile))
 		original_path = "[tfile]"
+
+		/* // NEMESIS EDIT REMOVAL START
 		tfile = file2text(tfile)
+		*/ // NEMESIS EDIT REMOVAL
+		// NEMESIS EDIT ADDITION START
+		// use rustlib to read, parse, process, mapmanip etc
+		// this will "crash"/stacktrace on fail
+		// is not passed `dmm_file` because byondapi-rs doesn't support resource types yet
+		tfile = mapmanip_read_dmm(original_path)
+		// if rustlib for whatever reason fails and returns null
+		// try to load it the old dm way instead
+		if(!tfile)
+			tfile = file2text(tfile)
+		// NEMESIS EDIT ADDITION END
 	else if(isnull(tfile))
 		// create a new datum without loading a map
 		return
