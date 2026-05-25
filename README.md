@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-	<img src=".github/images/badges/built-with-bugs.svg" alt="Bugs">
-	<img src=".github/images/badges/contains-copypaste.svg" alt="Copypaste">
+	<img src=".github/images/badges/nemesis/built-with-bugs.svg" alt="Bugs">
+	<img src=".github/images/badges/nemesis/contains-copypaste.svg" alt="Copypaste">
 	<a href="https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a/"><img src=".github/images/badges/made-in-byond.gif" alt="Made in BYOND"></a>
 </p>
 
 | Ресурс                       | Ссылка                                                                       |
 | ---------------------------- | ---------------------------------------------------------------------------- |
 | Код                          | https://github.com/ss220-space/Nemesis/                                      |
-| Руководство по модуляризации | [./modular_nemesis/readme.md](./modular_nemesis/readme.md)                   |
+| Руководство по модуляризации | [./modular_nemesis/README.md](./modular_nemesis/README.md)                   |
 | Руководство по зеркалированию| [./modular_nemesis/mirroring_guide.md](./modular_nemesis/mirroring_guide.md) |
 | Wiki                         | Отсутствует                                                                  |
 | Документация по коду         | https://ss220-space.github.io/Nemesis/                                       |
