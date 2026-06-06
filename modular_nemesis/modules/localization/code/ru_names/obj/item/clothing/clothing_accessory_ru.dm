@@ -242,7 +242,7 @@
 	return alist(
 		NOMINATIVE = "медаль имени Ордо",
 		GENITIVE = "медали имени Ордо",
-		DATIVE = "медале имени Ордо",
+		DATIVE = "медали имени Ордо",
 		ACCUSATIVE = "медаль имени Ордо",
 		INSTRUMENTAL = "медалью имени Ордо",
 		PREPOSITIONAL = "медали имени Ордо",
@@ -250,12 +250,12 @@
 
 /obj/item/clothing/accessory/medal/med_medal/get_ru_names()
 	return alist(
-		NOMINATIVE = "медаль за образцовую работу",
-		GENITIVE = "медали за образцовую работу",
-		DATIVE = "медали за образцовую работу",
-		ACCUSATIVE = "медаль за образцовую работу",
-		INSTRUMENTAL = "медалью за образцовую работу",
-		PREPOSITIONAL = "медали за образцовую работу",
+		NOMINATIVE = "медаль образцового врача",
+		GENITIVE = "медали образцового врача",
+		DATIVE = "медали образцового врача",
+		ACCUSATIVE = "медаль образцового врача",
+		INSTRUMENTAL = "медалью образцового врача",
+		PREPOSITIONAL = "медали образцового врача",
 	)
 
 /obj/item/clothing/accessory/medal/med_medal2/get_ru_names()
