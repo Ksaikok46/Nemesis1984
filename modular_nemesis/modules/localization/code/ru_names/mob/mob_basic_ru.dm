@@ -1,71 +1,71 @@
 /mob/living/basic/alien/get_ru_names()
 	return alist(
-		NOMINATIVE = "инопланетный охотник",
-		GENITIVE = "инопланетного охотника",
-		DATIVE = "инопланетному охотнику",
-		ACCUSATIVE = "инопланетного охотника",
-		INSTRUMENTAL = "инопланетным охотником",
-		PREPOSITIONAL = "инопланетном охотнике",
+		NOMINATIVE = "ксеноморф-охотник",
+		GENITIVE = "ксеноморфа-охотника",
+		DATIVE = "ксеноморфу-охотнику",
+		ACCUSATIVE = "ксеноморфа-охотника",
+		INSTRUMENTAL = "ксеноморфом-охотником",
+		PREPOSITIONAL = "ксеноморфе-охотнике",
 	)
 
 /mob/living/basic/alien/drone/get_ru_names()
 	return alist(
-		NOMINATIVE = "инопланетный трутень",
-		GENITIVE = "инопланетного трутня",
-		DATIVE = "инопланетному трутню",
-		ACCUSATIVE = "инопланетного трутня",
-		INSTRUMENTAL = "инопланетным трутнем",
-		PREPOSITIONAL = "инопланетном трутне",
+		NOMINATIVE = "ксеноморф-трутень",
+		GENITIVE = "ксеноморфа-трутня",
+		DATIVE = "ксеноморфу-трутню",
+		ACCUSATIVE = "ксеноморфа-трутня",
+		INSTRUMENTAL = "ксеноморфом-трутнем",
+		PREPOSITIONAL = "ксеноморфе-трутне",
 	)
 
 /mob/living/basic/alien/maid/get_ru_names()
 	return alist(
-		NOMINATIVE = "похотливая горничная-ксеноморф",
-		GENITIVE = "похотливой горничной-ксеноморфа",
-		DATIVE = "похотливой горничной-ксеноморфу",
-		ACCUSATIVE = "похотливую горничную-ксеноморфа",
-		INSTRUMENTAL = "похотливой горничной-ксеноморфом",
-		PREPOSITIONAL = "похотливой горничной-ксеноморфе",
+		NOMINATIVE = "похотливая ксено-горничная",
+		GENITIVE = "похотливой ксено-горничной",
+		DATIVE = "похотливой ксено-горничной",
+		ACCUSATIVE = "похотливую ксено-горничную",
+		INSTRUMENTAL = "похотливой ксено-горничной",
+		PREPOSITIONAL = "похотливой ксено-горничной",
 	)
 
 /mob/living/basic/alien/maid/barmaid/get_ru_names()
 	return alist(
-		NOMINATIVE = "Барменша",
-		GENITIVE = "Барменши",
-		DATIVE = "Барменше",
-		ACCUSATIVE = "Барменшу",
-		INSTRUMENTAL = "Барменшей",
-		PREPOSITIONAL = "Барменше",
+		NOMINATIVE = "похотливая ксено-барменша",
+		GENITIVE = "похотливой ксено-барменши",
+		DATIVE = "похотливой ксено-барменше",
+		ACCUSATIVE = "похотливую ксено-барменшу",
+		INSTRUMENTAL = "похотливой ксено-барменшей",
+		PREPOSITIONAL = "похотливой ксено-барменше",
 	)
 
 /mob/living/basic/alien/queen/get_ru_names()
 	return alist(
-		NOMINATIVE = "инопланетная королева",
-		GENITIVE = "инопланетной королевы",
-		DATIVE = "инопланетной королеве",
-		ACCUSATIVE = "инопланетную королеву",
-		INSTRUMENTAL = "инопланетной королевой",
-		PREPOSITIONAL = "инопланетной королеве",
+		NOMINATIVE = "королева ксеноморфов",
+		GENITIVE = "королевы ксеноморфов",
+		DATIVE = "королеве ксеноморфов",
+		ACCUSATIVE = "королеву ксеноморфов",
+		INSTRUMENTAL = "королевой ксеноморфов",
+		PREPOSITIONAL = "королеве ксеноморфов",
 	)
 
 /mob/living/basic/alien/queen/large/get_ru_names()
 	return alist(
-		NOMINATIVE = "инопланетная императрица",
-		GENITIVE = "инопланетной императрицы",
-		DATIVE = "инопланетной императрице",
-		ACCUSATIVE = "инопланетную императрицу",
-		INSTRUMENTAL = "инопланетной императрицей",
-		PREPOSITIONAL = "инопланетной императрице",
+		NOMINATIVE = "императрица ксеноморфов",
+		GENITIVE = "императрицы ксеноморфов",
+		DATIVE = "императрице ксеноморфов",
+		ACCUSATIVE = "императрицу ксеноморфов",
+		INSTRUMENTAL = "императрицей ксеноморфов",
+		PREPOSITIONAL = "императрице ксеноморфов",
 	)
 
 /mob/living/basic/alien/sentinel/get_ru_names()
 	return alist(
-		NOMINATIVE = "инопланетный страж",
-		GENITIVE = "инопланетного стража",
-		DATIVE = "инопланетному стражу",
-		ACCUSATIVE = "инопланетного стража",
-		INSTRUMENTAL = "инопланетным стражем",
-		PREPOSITIONAL = "инопланетном страже",
+		NOMINATIVE = "ксеноморф-страж",
+		GENITIVE = "ксеноморфа-стража",
+		DATIVE = "ксеноморфу-стражу",
+		ACCUSATIVE = "ксеноморфа-стража",
+		INSTRUMENTAL = "ксеноморфом-стражем",
+		PREPOSITIONAL = "ксеноморфе-страже",
 	)
 
 /mob/living/basic/ant/get_ru_names()
@@ -110,12 +110,12 @@
 
 /mob/living/basic/bear/butter/get_ru_names()
 	return alist(
-		NOMINATIVE = "Терриголд",
-		GENITIVE = "Терриголда",
-		DATIVE = "Терриголду",
-		ACCUSATIVE = "Терриголда",
-		INSTRUMENTAL = "Терриголдом",
-		PREPOSITIONAL = "Терриголде",
+		NOMINATIVE = "маслодведь",
+		GENITIVE = "маслодведя",
+		DATIVE = "маслодведю",
+		ACCUSATIVE = "маслодведя",
+		INSTRUMENTAL = "маслодведем",
+		PREPOSITIONAL = "маслодведе",
 	)
 
 /mob/living/basic/bear/fightpit/get_ru_names()
@@ -128,6 +128,7 @@
 		PREPOSITIONAL = "медведе из бойцовой ямы",
 	)
 
+// Какая-то отсылка на настоящего медведя
 /mob/living/basic/bear/hudson/get_ru_names()
 	return alist(
 		NOMINATIVE = "Хадсон",
@@ -178,6 +179,16 @@
 		PREPOSITIONAL = "Мише",
 	)
 
+/mob/living/basic/bee/get_ru_names()
+	return alist(
+		NOMINATIVE = "пчела",
+		GENITIVE = "пчелы",
+		DATIVE = "пчеле",
+		ACCUSATIVE = "пчелу",
+		INSTRUMENTAL = "пчелой",
+		PREPOSITIONAL = "пчеле",
+	)
+
 /mob/living/basic/bee/queen/get_ru_names()
 	return alist(
 		NOMINATIVE = "пчелиная матка",
@@ -186,36 +197,6 @@
 		ACCUSATIVE = "пчелиную матку",
 		INSTRUMENTAL = "пчелиной маткой",
 		PREPOSITIONAL = "пчелиной матке",
-	)
-
-/mob/living/basic/bee/timed/get_ru_names()
-	return alist(
-		NOMINATIVE = "временная пчела",
-		GENITIVE = "временной пчелы",
-		DATIVE = "временной пчеле",
-		ACCUSATIVE = "временную пчелу",
-		INSTRUMENTAL = "временной пчелой",
-		PREPOSITIONAL = "временной пчеле",
-	)
-
-/mob/living/basic/bee/timed/short/get_ru_names()
-	return alist(
-		NOMINATIVE = "кратковременная пчела",
-		GENITIVE = "кратковременной пчелы",
-		DATIVE = "кратковременной пчеле",
-		ACCUSATIVE = "кратковременную пчелу",
-		INSTRUMENTAL = "кратковременной пчелой",
-		PREPOSITIONAL = "кратковременной пчеле",
-	)
-
-/mob/living/basic/bee/toxin/get_ru_names()
-	return alist(
-		NOMINATIVE = "токсичная пчела",
-		GENITIVE = "токсичной пчелы",
-		DATIVE = "токсичной пчеле",
-		ACCUSATIVE = "токсичную пчелу",
-		INSTRUMENTAL = "токсичной пчелой",
-		PREPOSITIONAL = "токсичной пчеле",
 	)
 
 /mob/living/basic/blankbody/get_ru_names()
@@ -228,154 +209,74 @@
 		PREPOSITIONAL = "пустом теле",
 	)
 
-/mob/living/basic/blob_minion/get_ru_names()
-	return alist(
-		NOMINATIVE = "ошибка блоба",
-		GENITIVE = "ошибки блоба",
-		DATIVE = "ошибке блоба",
-		ACCUSATIVE = "ошибку блоба",
-		INSTRUMENTAL = "ошибкой блоба",
-		PREPOSITIONAL = "ошибке блоба",
-	)
-
 /mob/living/basic/blob_minion/blobbernaut/get_ru_names()
 	return alist(
-		NOMINATIVE = "блоббернавт",
-		GENITIVE = "блоббернавта",
-		DATIVE = "блоббернавту",
-		ACCUSATIVE = "блоббернавта",
-		INSTRUMENTAL = "блоббернавтом",
-		PREPOSITIONAL = "блоббернавте",
+		NOMINATIVE = "блоббернаут",
+		GENITIVE = "блоббернаута",
+		DATIVE = "блоббернауту",
+		ACCUSATIVE = "блоббернаута",
+		INSTRUMENTAL = "блоббернаутом",
+		PREPOSITIONAL = "блоббернауте",
 	)
 
-/mob/living/basic/blob_minion/blobbernaut/independent/get_ru_names()
+/mob/living/basic/blob_minion/spore/get_ru_names()
 	return alist(
-		NOMINATIVE = "независимый блоббернавт",
-		GENITIVE = "независимого блоббернавта",
-		DATIVE = "независимому блоббернавту",
-		ACCUSATIVE = "независимого блоббернавта",
-		INSTRUMENTAL = "независимым блоббернавтом",
-		PREPOSITIONAL = "независимом блоббернавте",
-	)
-
-/mob/living/basic/blob_minion/blobbernaut/minion/get_ru_names()
-	return alist(
-		NOMINATIVE = "блоббернавт-прислужник",
-		GENITIVE = "блоббернавта-прислужника",
-		DATIVE = "блоббернавту-прислужнику",
-		ACCUSATIVE = "блоббернавта-прислужника",
-		INSTRUMENTAL = "блоббернавтом-прислужником",
-		PREPOSITIONAL = "блоббернавте-прислужнике",
-	)
-
-/mob/living/basic/blob_minion/spore/independent/get_ru_names()
-	return alist(
-		NOMINATIVE = "независимая споровая блоба",
-		GENITIVE = "независимой споровой блоба",
-		DATIVE = "независимой споровой блобе",
-		ACCUSATIVE = "независимую споровую блобу",
-		INSTRUMENTAL = "независимой споровой блобой",
-		PREPOSITIONAL = "независимой споровой блобе",
-	)
-
-/mob/living/basic/blob_minion/spore/minion/get_ru_names()
-	return alist(
-		NOMINATIVE = "споровая блоба-прислужник",
-		GENITIVE = "споровой блобы-прислужника",
-		DATIVE = "споровой блобе-прислужнику",
-		ACCUSATIVE = "споровую блобу-прислужника",
-		INSTRUMENTAL = "споровой блобой-прислужником",
-		PREPOSITIONAL = "споровой блобе-прислужнике",
+		NOMINATIVE = "споры блоба",
+		GENITIVE = "спор блоба",
+		DATIVE = "спорам блоба",
+		ACCUSATIVE = "споры блоба",
+		INSTRUMENTAL = "спорами блоба",
+		PREPOSITIONAL = "спорах блоба",
 	)
 
 /mob/living/basic/blob_minion/spore/minion/weak/get_ru_names()
 	return alist(
-		NOMINATIVE = "хрупкая споровая блоба",
-		GENITIVE = "хрупкой споровой блобы",
-		DATIVE = "хрупкой споровой блобе",
-		ACCUSATIVE = "хрупкую споровую блобу",
-		INSTRUMENTAL = "хрупкой споровой блобой",
-		PREPOSITIONAL = "хрупкой споровой блобе",
+		NOMINATIVE = "слабые споры блоба",
+		GENITIVE = "слабых спор блоба",
+		DATIVE = "слабым спорам блоба",
+		ACCUSATIVE = "слабые споры блоба",
+		INSTRUMENTAL = "слабыми спорами блоба",
+		PREPOSITIONAL = "слабых спорах блоба",
 	)
 
 /mob/living/basic/blob_minion/zombie/get_ru_names()
 	return alist(
-		NOMINATIVE = "зомби-блоба",
-		GENITIVE = "зомби-блобы",
-		DATIVE = "зомби-блобе",
-		ACCUSATIVE = "зомби-блобу",
-		INSTRUMENTAL = "зомби-блобой",
-		PREPOSITIONAL = "зомби-блобе",
-	)
-
-/mob/living/basic/blob_minion/zombie/controlled/get_ru_names()
-	return alist(
-		NOMINATIVE = "подконтрольный зомби-блоба",
-		GENITIVE = "подконтрольного зомби-блобы",
-		DATIVE = "подконтрольному зомби-блобе",
-		ACCUSATIVE = "подконтрольного зомби-блобу",
-		INSTRUMENTAL = "подконтрольным зомби-блобой",
-		PREPOSITIONAL = "подконтрольном зомби-блобе",
+		NOMINATIVE = "споровый зомби",
+		GENITIVE = "спорового зомби",
+		DATIVE = "споровому зомби",
+		ACCUSATIVE = "спорового зомби",
+		INSTRUMENTAL = "споровым зомби",
+		PREPOSITIONAL = "споровом зомби",
 	)
 
 /mob/living/basic/blood_worm/adult/get_ru_names()
 	return alist(
-		NOMINATIVE = "взрослый кровяной червь",
-		GENITIVE = "взрослого кровяного червя",
-		DATIVE = "взрослому кровяному червю",
-		ACCUSATIVE = "взрослого кровяного червя",
-		INSTRUMENTAL = "взрослым кровяным червём",
-		PREPOSITIONAL = "взрослом кровяном черве",
-	)
-
-/mob/living/basic/blood_worm/adult/polymorph/get_ru_names()
-	return alist(
-		NOMINATIVE = "полиморфный взрослый кровяной червь",
-		GENITIVE = "полиморфного взрослого кровяного червя",
-		DATIVE = "полиморфному взрослому кровяному червю",
-		ACCUSATIVE = "полиморфного взрослого кровяного червя",
-		INSTRUMENTAL = "полиморфным взрослым кровяным червём",
-		PREPOSITIONAL = "полиморфном взрослом кровяном черве",
+		NOMINATIVE = "взрослый кровавый червь",
+		GENITIVE = "взрослого кровавого червя",
+		DATIVE = "взрослому кровавому червю",
+		ACCUSATIVE = "взрослого кровавого червя",
+		INSTRUMENTAL = "взрослым кровавым червём",
+		PREPOSITIONAL = "взрослом кровавом черве",
 	)
 
 /mob/living/basic/blood_worm/hatchling/get_ru_names()
 	return alist(
-		NOMINATIVE = "личинка кровяного червя",
-		GENITIVE = "личинки кровяного червя",
-		DATIVE = "личинке кровяного червя",
-		ACCUSATIVE = "личинку кровяного червя",
-		INSTRUMENTAL = "личинкой кровяного червя",
-		PREPOSITIONAL = "личинке кровяного червя",
-	)
-
-/mob/living/basic/blood_worm/hatchling/polymorph/get_ru_names()
-	return alist(
-		NOMINATIVE = "полиморфная личинка кровяного червя",
-		GENITIVE = "полиморфной личинки кровяного червя",
-		DATIVE = "полиморфной личинке кровяного червя",
-		ACCUSATIVE = "полиморфную личинку кровяного червя",
-		INSTRUMENTAL = "полиморфной личинкой кровяного червя",
-		PREPOSITIONAL = "полиморфной личинке кровяного червя",
+		NOMINATIVE = "личинка кровавый червя",
+		GENITIVE = "личинки кровавого червя",
+		DATIVE = "личинке кровавому червя",
+		ACCUSATIVE = "личинку кровавого червя",
+		INSTRUMENTAL = "личинкой кровавым червя",
+		PREPOSITIONAL = "личинке кровавом червя",
 	)
 
 /mob/living/basic/blood_worm/juvenile/get_ru_names()
 	return alist(
-		NOMINATIVE = "юный кровяной червь",
-		GENITIVE = "юного кровяного червя",
-		DATIVE = "юному кровяному червю",
-		ACCUSATIVE = "юного кровяного червя",
-		INSTRUMENTAL = "юным кровяным червём",
-		PREPOSITIONAL = "юном кровяном черве",
-	)
-
-/mob/living/basic/blood_worm/juvenile/polymorph/get_ru_names()
-	return alist(
-		NOMINATIVE = "полиморфный юный кровяной червь",
-		GENITIVE = "полиморфного юного кровяного червя",
-		DATIVE = "полиморфному юному кровяному червю",
-		ACCUSATIVE = "полиморфного юного кровяного червя",
-		INSTRUMENTAL = "полиморфным юным кровяным червём",
-		PREPOSITIONAL = "полиморфном юном кровяном черве",
+		NOMINATIVE = "молодой кровавый червь",
+		GENITIVE = "молодого кровавого червя",
+		DATIVE = "молодому кровавому червю",
+		ACCUSATIVE = "молодого кровавого червя",
+		INSTRUMENTAL = "молодым кровавым червём",
+		PREPOSITIONAL = "молодом кровавом черве",
 	)
 
 /mob/living/basic/boss/blood_drunk_miner/get_ru_names()
@@ -388,36 +289,6 @@
 		PREPOSITIONAL = "кровавом шахтёре",
 	)
 
-/mob/living/basic/boss/blood_drunk_miner/doom/get_ru_names()
-	return alist(
-		NOMINATIVE = "враждебный шахтёр",
-		GENITIVE = "враждебного шахтёра",
-		DATIVE = "враждебному шахтёру",
-		ACCUSATIVE = "враждебного шахтёра",
-		INSTRUMENTAL = "враждебным шахтёром",
-		PREPOSITIONAL = "враждебном шахтёре",
-	)
-
-/mob/living/basic/boss/blood_drunk_miner/guidance/get_ru_names()
-	return alist(
-		NOMINATIVE = "направляющий шахтёр",
-		GENITIVE = "направляющего шахтёра",
-		DATIVE = "направляющему шахтёру",
-		ACCUSATIVE = "направляющего шахтёра",
-		INSTRUMENTAL = "направляющим шахтёром",
-		PREPOSITIONAL = "направляющем шахтёре",
-	)
-
-/mob/living/basic/boss/blood_drunk_miner/hunter/get_ru_names()
-	return alist(
-		NOMINATIVE = "шахтёр-охотник",
-		GENITIVE = "шахтёра-охотника",
-		DATIVE = "шахтёру-охотнику",
-		ACCUSATIVE = "шахтёра-охотника",
-		INSTRUMENTAL = "шахтёром-охотником",
-		PREPOSITIONAL = "шахтёре-охотнике",
-	)
-
 /mob/living/basic/boss/thing/get_ru_names()
 	return alist(
 		NOMINATIVE = "Нечто",
@@ -428,7 +299,7 @@
 		PREPOSITIONAL = "Нечто",
 	)
 
-/mob/living/basic/bot/cleanbot/autopatrol/get_ru_names()
+/mob/living/basic/bot/cleanbot/get_ru_names()
 	return alist(
 		NOMINATIVE = "уборочный бот",
 		GENITIVE = "уборочного бота",
@@ -438,27 +309,31 @@
 		PREPOSITIONAL = "уборочном боте",
 	)
 
+// На медицинском сленге словом «Scrubs» называют выпускников мединститутов
+// Также есть сериал "Scrubs" ("Клиника")
+// Не придумал как лучше адаптировать "Scrubs, MD", кроме как отсылкой на Интернов, которые по сути адаптация Клиники
 /mob/living/basic/bot/cleanbot/medbay/get_ru_names()
 	return alist(
-		NOMINATIVE = "Скрабс, доктор медицины",
-		GENITIVE = "Скрабса, доктора медицины",
-		DATIVE = "Скрабсу, доктору медицины",
-		ACCUSATIVE = "Скрабса, доктора медицины",
-		INSTRUMENTAL = "Скрабсом, доктором медицины",
-		PREPOSITIONAL = "Скрабсе, докторе медицины",
+		NOMINATIVE = "Доктор Лобанов",
+		GENITIVE = "Доктора Лобанова",
+		DATIVE = "Доктору Лобанову",
+		ACCUSATIVE = "Доктора Лобанова",
+		INSTRUMENTAL = "Доктором Лобановым",
+		PREPOSITIONAL = "Докторе Лобанове",
 	)
 
+// Donk Exenteration Drone, D.E.D
 /mob/living/basic/bot/dedbot/get_ru_names()
 	return alist(
-		NOMINATIVE = "дрон эвисцерации Donk",
-		GENITIVE = "дрона эвисцерации Donk",
-		DATIVE = "дрону эвисцерации Donk",
-		ACCUSATIVE = "дрона эвисцерации Donk",
-		INSTRUMENTAL = "дроном эвисцерации Donk",
-		PREPOSITIONAL = "дроне эвисцерации Donk",
+		NOMINATIVE = "дрон-эвисцератор Донк",
+		GENITIVE = "дрона-эвисцератора Донк",
+		DATIVE = "дрону-эвисцератору Донк",
+		ACCUSATIVE = "дрона-эвисцератора Донк",
+		INSTRUMENTAL = "дроном-эвисцератором Донк",
+		PREPOSITIONAL = "дроне-эвисцераторе Донк",
 	)
 
-/mob/living/basic/bot/medbot/autopatrol/get_ru_names()
+/mob/living/basic/bot/medbot/get_ru_names()
 	return alist(
 		NOMINATIVE = "медицинский бот",
 		GENITIVE = "медицинского бота",
@@ -498,16 +373,6 @@
 		PREPOSITIONAL = "Оппенгеймере",
 	)
 
-/mob/living/basic/bot/medbot/stationary/get_ru_names()
-	return alist(
-		NOMINATIVE = "стационарный медицинский бот",
-		GENITIVE = "стационарного медицинского бота",
-		DATIVE = "стационарному медицинскому боту",
-		ACCUSATIVE = "стационарного медицинского бота",
-		INSTRUMENTAL = "стационарным медицинским ботом",
-		PREPOSITIONAL = "стационарном медицинском боте",
-	)
-
 /mob/living/basic/bot/repairbot/get_ru_names()
 	return alist(
 		NOMINATIVE = "ремонтный бот",
@@ -518,24 +383,34 @@
 		PREPOSITIONAL = "ремонтном боте",
 	)
 
+/mob/living/basic/bot/secbot/beepsky/get_ru_names()
+	return alist(
+		NOMINATIVE = "капитан Бип-о-ски",
+		GENITIVE = "капитана Бип-о-ски",
+		DATIVE = "капитану Бип-о-ски",
+		ACCUSATIVE = "капитана Бип-о-ски",
+		INSTRUMENTAL = "капитаном Бип-о-ски",
+		PREPOSITIONAL = "капитане Бип-о-ски",
+	)
+
 /mob/living/basic/bot/secbot/beepsky/armsky/get_ru_names()
 	return alist(
-		NOMINATIVE = "сержант-оружейник",
-		GENITIVE = "сержанта-оружейника",
-		DATIVE = "сержанту-оружейнику",
-		ACCUSATIVE = "сержанта-оружейника",
-		INSTRUMENTAL = "сержантом-оружейником",
-		PREPOSITIONAL = "сержанте-оружейнике",
+		NOMINATIVE = "сержант Армски",
+		GENITIVE = "сержанта Армски",
+		DATIVE = "сержанту Армски",
+		ACCUSATIVE = "сержанта Армски",
+		INSTRUMENTAL = "сержантом Армски",
+		PREPOSITIONAL = "сержанте Армски",
 	)
 
 /mob/living/basic/bot/secbot/beepsky/jr/get_ru_names()
 	return alist(
-		NOMINATIVE = "офицер Пискля",
-		GENITIVE = "офицера Пискли",
-		DATIVE = "офицеру Пискле",
-		ACCUSATIVE = "офицера Писклю",
-		INSTRUMENTAL = "офицером Писклей",
-		PREPOSITIONAL = "офицере Пискле",
+		NOMINATIVE = "офицер Пипски",
+		GENITIVE = "офицера Пипски",
+		DATIVE = "офицеру Пипски",
+		ACCUSATIVE = "офицера Пипски",
+		INSTRUMENTAL = "офицером Пипски",
+		PREPOSITIONAL = "офицере Пипски",
 	)
 
 /mob/living/basic/bot/secbot/beepsky/officer/get_ru_names()
@@ -550,12 +425,22 @@
 
 /mob/living/basic/bot/secbot/beepsky/ofitser/get_ru_names()
 	return alist(
-		NOMINATIVE = "тюремный офицер",
-		GENITIVE = "тюремного офицера",
-		DATIVE = "тюремному офицеру",
-		ACCUSATIVE = "тюремного офицера",
-		INSTRUMENTAL = "тюремным офицером",
-		PREPOSITIONAL = "тюремном офицере",
+		NOMINATIVE = "офицер Тюремски",
+		GENITIVE = "офицера Тюремски",
+		DATIVE = "офицеру Тюремски",
+		ACCUSATIVE = "офицера Тюремски",
+		INSTRUMENTAL = "офицером Тюремски",
+		PREPOSITIONAL = "офицере Тюремски",
+	)
+
+/mob/living/basic/bot/secbot/ed209/get_ru_names()
+	return alist(
+		NOMINATIVE = "охранный робот ED-209",
+		GENITIVE = "охранного робота ED-209",
+		DATIVE = "охранному роботу ED-209",
+		ACCUSATIVE = "охранного робота ED-209",
+		INSTRUMENTAL = "охранным роботом ED-209",
+		PREPOSITIONAL = "охранном роботе ED-209",
 	)
 
 /mob/living/basic/bot/secbot/ed209/nukie/get_ru_names()
@@ -578,14 +463,14 @@
 		PREPOSITIONAL = "офицере Джински",
 	)
 
-/mob/living/basic/bot/secbot/grievous/toy/get_ru_names()
+/mob/living/basic/bot/secbot/grievous/get_ru_names()
 	return alist(
-		NOMINATIVE = "Геневул Бвипски",
-		GENITIVE = "Геневула Бвипски",
-		DATIVE = "Геневулу Бвипски",
-		ACCUSATIVE = "Геневула Бвипски",
-		INSTRUMENTAL = "Геневулом Бвипски",
-		PREPOSITIONAL = "Геневуле Бвипски",
+		NOMINATIVE = "генерал Грифски",
+		GENITIVE = "генерала Грифски",
+		DATIVE = "генералу Грифски",
+		ACCUSATIVE = "генерала Грифски",
+		INSTRUMENTAL = "генералом Грифски",
+		PREPOSITIONAL = "генерале Грифски",
 	)
 
 /mob/living/basic/bot/secbot/pingsky/get_ru_names()
@@ -618,14 +503,14 @@
 		PREPOSITIONAL = "Элле",
 	)
 
-/mob/living/basic/carp/holographic/get_ru_names()
+/mob/living/basic/carp/get_ru_names()
 	return alist(
-		NOMINATIVE = "голографический карп",
-		GENITIVE = "голографического карпа",
-		DATIVE = "голографическому карпу",
-		ACCUSATIVE = "голографического карпа",
-		INSTRUMENTAL = "голографическим карпом",
-		PREPOSITIONAL = "голографическом карпе",
+		NOMINATIVE = "космический карп",
+		GENITIVE = "космического карпа",
+		DATIVE = "космическому карпу",
+		ACCUSATIVE = "космического карпа",
+		INSTRUMENTAL = "космическим карпом",
+		PREPOSITIONAL = "космическом карпе",
 	)
 
 /mob/living/basic/carp/magic/chaos/xenobiology/get_ru_names()
@@ -638,7 +523,7 @@
 		PREPOSITIONAL = "хаотичном магическом карпе",
 	)
 
-/mob/living/basic/carp/magic/xenobiology/get_ru_names()
+/mob/living/basic/carp/magic/get_ru_names()
 	return alist(
 		NOMINATIVE = "магический карп",
 		GENITIVE = "магического карпа",
@@ -698,7 +583,7 @@
 		PREPOSITIONAL = "Кошачьем хирурге",
 	)
 
-/mob/living/basic/chick/permanent/get_ru_names()
+/mob/living/basic/chick/get_ru_names()
 	return alist(
 		NOMINATIVE = "цыплёнок",
 		GENITIVE = "цыплёнка",
@@ -760,12 +645,12 @@
 
 /mob/living/basic/clown/honkling/get_ru_names()
 	return alist(
-		NOMINATIVE = "хонклин",
-		GENITIVE = "хонклина",
-		DATIVE = "хонклину",
-		ACCUSATIVE = "хонклина",
-		INSTRUMENTAL = "хонклином",
-		PREPOSITIONAL = "хонклине",
+		NOMINATIVE = "хонкер",
+		GENITIVE = "хонкера",
+		DATIVE = "хонкеру",
+		ACCUSATIVE = "хонкера",
+		INSTRUMENTAL = "хонкером",
+		PREPOSITIONAL = "хонкере",
 	)
 
 /mob/living/basic/clown/longface/get_ru_names()
@@ -798,6 +683,16 @@
 		PREPOSITIONAL = "банановом обжоре",
 	)
 
+/mob/living/basic/cockroach/get_ru_names()
+	return alist(
+		NOMINATIVE = "таракан",
+		GENITIVE = "таракана",
+		DATIVE = "таракану",
+		ACCUSATIVE = "таракана",
+		INSTRUMENTAL = "тараканом",
+		PREPOSITIONAL = "таракане",
+	)
+
 /mob/living/basic/cockroach/bloodroach/get_ru_names()
 	return alist(
 		NOMINATIVE = "кровавый таракан",
@@ -810,52 +705,52 @@
 
 /mob/living/basic/cockroach/glockroach/gang/get_ru_names()
 	return alist(
-		NOMINATIVE = "гангстер-таракан",
-		GENITIVE = "гангстер-таракана",
-		DATIVE = "гангстер-таракану",
-		ACCUSATIVE = "гангстер-таракана",
-		INSTRUMENTAL = "гангстер-тараканом",
-		PREPOSITIONAL = "гангстер-таракане",
+		NOMINATIVE = "таракан с пушкой",
+		GENITIVE = "таракана с пушкой",
+		DATIVE = "таракану с пушкой",
+		ACCUSATIVE = "таракана с пушкой",
+		INSTRUMENTAL = "тараканом с пушкой",
+		PREPOSITIONAL = "таракане с пушкой",
 	)
 
 /mob/living/basic/cockroach/glockroach/mobroach/get_ru_names()
 	return alist(
-		NOMINATIVE = "моб-таракан",
-		GENITIVE = "моб-таракана",
-		DATIVE = "моб-таракану",
-		ACCUSATIVE = "моб-таракана",
-		INSTRUMENTAL = "моб-тараканом",
-		PREPOSITIONAL = "моб-таракане",
+		NOMINATIVE = "таракан-гангстер",
+		GENITIVE = "таракана-гангстера",
+		DATIVE = "таракану-гангстеру",
+		ACCUSATIVE = "таракана-гангстера",
+		INSTRUMENTAL = "тараканом-гангстером",
+		PREPOSITIONAL = "таракане-гангстере",
 	)
 
 /mob/living/basic/cockroach/glockroach/mobroach/goon/get_ru_names()
 	return alist(
-		NOMINATIVE = "гун-таракан",
-		GENITIVE = "гун-таракана",
-		DATIVE = "гун-таракану",
-		ACCUSATIVE = "гун-таракана",
-		INSTRUMENTAL = "гун-тараканом",
-		PREPOSITIONAL = "гун-таракане",
+		NOMINATIVE = "таракан-шестёрка",
+		GENITIVE = "таракана-шестёрки",
+		DATIVE = "таракану-шестёрке",
+		ACCUSATIVE = "таракана-шестёрку",
+		INSTRUMENTAL = "тараканом-шестёркой",
+		PREPOSITIONAL = "таракане-шестёрке",
 	)
 
 /mob/living/basic/cockroach/hauberoach/get_ru_names()
 	return alist(
-		NOMINATIVE = "хаубер-таракан",
-		GENITIVE = "хаубер-таракана",
-		DATIVE = "хаубер-таракану",
-		ACCUSATIVE = "хаубер-таракана",
-		INSTRUMENTAL = "хаубер-тараканом",
-		PREPOSITIONAL = "хаубер-таракане",
+		NOMINATIVE = "таракан в хауберке",
+		GENITIVE = "таракана в хауберке",
+		DATIVE = "таракану в хауберке",
+		ACCUSATIVE = "таракана в хауберке",
+		INSTRUMENTAL = "тараканом в хауберке",
+		PREPOSITIONAL = "таракане в хауберке",
 	)
 
 /mob/living/basic/cockroach/hauberoach/imperial/get_ru_names()
 	return alist(
-		NOMINATIVE = "имперский хаубер-таракан",
-		GENITIVE = "имперского хаубер-таракана",
-		DATIVE = "имперскому хаубер-таракану",
-		ACCUSATIVE = "имперского хаубер-таракана",
-		INSTRUMENTAL = "имперским хаубер-тараканом",
-		PREPOSITIONAL = "имперском хаубер-таракане",
+		NOMINATIVE = "имперский таракан",
+		GENITIVE = "имперского таракана",
+		DATIVE = "имперскому таракану",
+		ACCUSATIVE = "имперского таракана",
+		INSTRUMENTAL = "имперским тараканом",
+		PREPOSITIONAL = "имперском таракане",
 	)
 
 /mob/living/basic/cockroach/sewer/get_ru_names()
@@ -868,124 +763,104 @@
 		PREPOSITIONAL = "канализационном таракане",
 	)
 
+/mob/living/basic/construct/artificer/get_ru_names()
+	return alist(
+		NOMINATIVE = "артефактор",
+		GENITIVE = "артефактора",
+		DATIVE = "артефактору",
+		ACCUSATIVE = "артефактора",
+		INSTRUMENTAL = "артефактором",
+		PREPOSITIONAL = "артефакторе",
+	)
+
 /mob/living/basic/construct/artificer/angelic/get_ru_names()
 	return alist(
-		NOMINATIVE = "ангелический артифектор",
-		GENITIVE = "ангелического артифектора",
-		DATIVE = "ангелическому артифектору",
-		ACCUSATIVE = "ангелического артифектора",
-		INSTRUMENTAL = "ангелическим артифектором",
-		PREPOSITIONAL = "ангелическом артифекторе",
+		NOMINATIVE = "святой артефактор",
+		GENITIVE = "святого артефактора",
+		DATIVE = "святому артефактору",
+		ACCUSATIVE = "святого артефактора",
+		INSTRUMENTAL = "святым артефактором",
+		PREPOSITIONAL = "святом артефакторе",
 	)
 
-/mob/living/basic/construct/artificer/hostile/get_ru_names()
+/mob/living/basic/construct/harvester/get_ru_names()
 	return alist(
-		NOMINATIVE = "враждебный артифектор",
-		GENITIVE = "враждебного артифектора",
-		DATIVE = "враждебному артифектору",
-		ACCUSATIVE = "враждебного артифектора",
-		INSTRUMENTAL = "враждебным артифектором",
-		PREPOSITIONAL = "враждебном артифекторе",
-	)
-
-/mob/living/basic/construct/artificer/mystic/get_ru_names()
-	return alist(
-		NOMINATIVE = "мистический артифектор",
-		GENITIVE = "мистического артифектора",
-		DATIVE = "мистическому артифектору",
-		ACCUSATIVE = "мистического артифектора",
-		INSTRUMENTAL = "мистическим артифектором",
-		PREPOSITIONAL = "мистическом артифекторе",
-	)
-
-/mob/living/basic/construct/artificer/noncult/get_ru_names()
-	return alist(
-		NOMINATIVE = "некультистский артифектор",
-		GENITIVE = "некультистского артифектора",
-		DATIVE = "некультистскому артифектору",
-		ACCUSATIVE = "некультистского артифектора",
-		INSTRUMENTAL = "некультистским артифектором",
-		PREPOSITIONAL = "некультистском артифекторе",
+		NOMINATIVE = "жнец",
+		GENITIVE = "жнеца",
+		DATIVE = "жнецу",
+		ACCUSATIVE = "жнеца",
+		INSTRUMENTAL = "жнецом",
+		PREPOSITIONAL = "жнеце",
 	)
 
 /mob/living/basic/construct/harvester/heretic/get_ru_names()
 	return alist(
-		NOMINATIVE = "Ржавый Жнец",
-		GENITIVE = "Ржавого Жнеца",
-		DATIVE = "Ржавому Жнецу",
-		ACCUSATIVE = "Ржавого Жнеца",
-		INSTRUMENTAL = "Ржавым Жнецом",
-		PREPOSITIONAL = "Ржавом Жнеце",
+		NOMINATIVE = "ржавый жнец",
+		GENITIVE = "ржавого жнеца",
+		DATIVE = "ржавому жнецу",
+		ACCUSATIVE = "ржавого жнеца",
+		INSTRUMENTAL = "ржавым жнецом",
+		PREPOSITIONAL = "ржавом жнеце",
+	)
+
+/mob/living/basic/construct/juggernaut/get_ru_names()
+	return alist(
+		NOMINATIVE = "джаггернаут",
+		GENITIVE = "джаггернаута",
+		DATIVE = "джаггернауту",
+		ACCUSATIVE = "джаггернаута",
+		INSTRUMENTAL = "джаггернаутом",
+		PREPOSITIONAL = "джаггернауте",
 	)
 
 /mob/living/basic/construct/juggernaut/angelic/get_ru_names()
 	return alist(
-		NOMINATIVE = "ангелический джаггернаут",
-		GENITIVE = "ангелического джаггернаута",
-		DATIVE = "ангелическому джаггернауту",
-		ACCUSATIVE = "ангелического джаггернаута",
-		INSTRUMENTAL = "ангелическим джаггернаутом",
-		PREPOSITIONAL = "ангелическом джаггернауте",
+		NOMINATIVE = "святой джаггернаут",
+		GENITIVE = "святого джаггернаута",
+		DATIVE = "святому джаггернауту",
+		ACCUSATIVE = "святого джаггернаута",
+		INSTRUMENTAL = "святым джаггернаутом",
+		PREPOSITIONAL = "святом джаггернауте",
 	)
 
-/mob/living/basic/construct/juggernaut/hostile/get_ru_names()
+/mob/living/basic/construct/proteon/get_ru_names()
 	return alist(
-		NOMINATIVE = "враждебный джаггернаут",
-		GENITIVE = "враждебного джаггернаута",
-		DATIVE = "враждебному джаггернауту",
-		ACCUSATIVE = "враждебного джаггернаута",
-		INSTRUMENTAL = "враждебным джаггернаутом",
-		PREPOSITIONAL = "враждебном джаггернауте",
+		NOMINATIVE = "протеон",
+		GENITIVE = "протеона",
+		DATIVE = "протеону",
+		ACCUSATIVE = "протеона",
+		INSTRUMENTAL = "протеоном",
+		PREPOSITIONAL = "протеоне",
 	)
 
-/mob/living/basic/construct/juggernaut/mystic/get_ru_names()
+/mob/living/basic/construct/wraith/get_ru_names()
 	return alist(
-		NOMINATIVE = "мистический джаггернаут",
-		GENITIVE = "мистического джаггернаута",
-		DATIVE = "мистическому джаггернауту",
-		ACCUSATIVE = "мистического джаггернаута",
-		INSTRUMENTAL = "мистическим джаггернаутом",
-		PREPOSITIONAL = "мистическом джаггернауте",
-	)
-
-/mob/living/basic/construct/proteon/hostile/get_ru_names()
-	return alist(
-		NOMINATIVE = "враждебный протеон",
-		GENITIVE = "враждебного протеона",
-		DATIVE = "враждебному протеону",
-		ACCUSATIVE = "враждебного протеона",
-		INSTRUMENTAL = "враждебным протеоном",
-		PREPOSITIONAL = "враждебном протеоне",
+		NOMINATIVE = "фантом",
+		GENITIVE = "фантома",
+		DATIVE = "фантому",
+		ACCUSATIVE = "фантома",
+		INSTRUMENTAL = "фантомом",
+		PREPOSITIONAL = "фантоме",
 	)
 
 /mob/living/basic/construct/wraith/angelic/get_ru_names()
 	return alist(
-		NOMINATIVE = "ангелический фантом",
-		GENITIVE = "ангелического фантома",
-		DATIVE = "ангелическому фантому",
-		ACCUSATIVE = "ангелического фантома",
-		INSTRUMENTAL = "ангелическим фантомом",
-		PREPOSITIONAL = "ангелическом фантоме",
+		NOMINATIVE = "святой фантом",
+		GENITIVE = "святого фантома",
+		DATIVE = "святому фантому",
+		ACCUSATIVE = "святого фантома",
+		INSTRUMENTAL = "святым фантомом",
+		PREPOSITIONAL = "святом фантоме",
 	)
 
-/mob/living/basic/construct/wraith/hostile/get_ru_names()
-	return alist(
-		NOMINATIVE = "враждебный фантом",
-		GENITIVE = "враждебного фантома",
-		DATIVE = "враждебному фантому",
-		ACCUSATIVE = "враждебного фантома",
-		INSTRUMENTAL = "враждебным фантомом",
-		PREPOSITIONAL = "враждебном фантоме",
-	)
-
-/mob/living/basic/construct/wraith/mystic/get_ru_names()
-	return alist(
-		NOMINATIVE = "мистический фантом",
-		GENITIVE = "мистического фантома",
-		DATIVE = "мистическому фантому",
-		ACCUSATIVE = "мистического фантома",
-		INSTRUMENTAL = "мистическим фантомом",
-		PREPOSITIONAL = "мистическом фантоме",
+/mob/living/basic/cow/get_ru_names()
+		return alist(
+		NOMINATIVE = "корова",
+		GENITIVE = "коровы",
+		DATIVE = "корове",
+		ACCUSATIVE = "корову",
+		INSTRUMENTAL = "коровой",
+		PREPOSITIONAL = "корове",
 	)
 
 /mob/living/basic/cow/moonicorn/get_ru_names()
@@ -1008,6 +883,16 @@
 		PREPOSITIONAL = "мудрой корове",
 	)
 
+/mob/living/basic/crab/get_ru_names()
+	return alist(
+		NOMINATIVE = "краб",
+		GENITIVE = "краба",
+		DATIVE = "крабу",
+		ACCUSATIVE = "краба",
+		INSTRUMENTAL = "крабом",
+		PREPOSITIONAL = "крабе",
+	)
+
 /mob/living/basic/crab/coffee/get_ru_names()
 	return alist(
 		NOMINATIVE = "Кофе",
@@ -1016,6 +901,16 @@
 		ACCUSATIVE = "Кофе",
 		INSTRUMENTAL = "Кофе",
 		PREPOSITIONAL = "Кофе",
+	)
+
+/mob/living/basic/crab/kreb/get_ru_names()
+	return alist(
+		NOMINATIVE = "Креб",
+		GENITIVE = "Креба",
+		DATIVE = "Кребу",
+		ACCUSATIVE = "Креба",
+		INSTRUMENTAL = "Кребом",
+		PREPOSITIONAL = "Кребе",
 	)
 
 /mob/living/basic/crab/evil/kreb/get_ru_names()
@@ -1030,22 +925,32 @@
 
 /mob/living/basic/crab/jon/get_ru_names()
 	return alist(
-		NOMINATIVE = "Джон",
-		GENITIVE = "Джона",
-		DATIVE = "Джону",
-		ACCUSATIVE = "Джона",
-		INSTRUMENTAL = "Джоном",
-		PREPOSITIONAL = "Джоне",
+		NOMINATIVE = "Жон",
+		GENITIVE = "Жона",
+		DATIVE = "Жону",
+		ACCUSATIVE = "Жона",
+		INSTRUMENTAL = "Жоном",
+		PREPOSITIONAL = "Жоне",
+	)
+
+/mob/living/basic/creature/get_ru_names()
+	return alist(
+		NOMINATIVE = "существо",
+		GENITIVE = "существа",
+		DATIVE = "существу",
+		ACCUSATIVE = "существо",
+		INSTRUMENTAL = "существом",
+		PREPOSITIONAL = "существе",
 	)
 
 /mob/living/basic/creature/hatchling/get_ru_names()
 	return alist(
-		NOMINATIVE = "детёныш",
-		GENITIVE = "детёныша",
-		DATIVE = "детёнышу",
-		ACCUSATIVE = "детёныша",
-		INSTRUMENTAL = "детёнышем",
-		PREPOSITIONAL = "детёныше",
+		NOMINATIVE = "детёныш существа",
+		GENITIVE = "детёныша существа",
+		DATIVE = "детёнышу существа",
+		ACCUSATIVE = "детёныша существа",
+		INSTRUMENTAL = "детёнышем существа",
+		PREPOSITIONAL = "детёныше существа",
 	)
 
 /mob/living/basic/creature/tiggles/get_ru_names()
@@ -1060,12 +965,12 @@
 
 /mob/living/basic/cybersun_ai_core/get_ru_names()
 	return alist(
-		NOMINATIVE = "ядро ИИ Cybersun",
-		GENITIVE = "ядра ИИ Cybersun",
-		DATIVE = "ядру ИИ Cybersun",
-		ACCUSATIVE = "ядро ИИ Cybersun",
-		INSTRUMENTAL = "ядром ИИ Cybersun",
-		PREPOSITIONAL = "ядре ИИ Cybersun",
+		NOMINATIVE = "ядро ИИ \"Cybersun\"",
+		GENITIVE = "ядра ИИ \"Cybersun\"",
+		DATIVE = "ядру ИИ \"Cybersun\"",
+		ACCUSATIVE = "ядро ИИ \"Cybersun\"",
+		INSTRUMENTAL = "ядром ИИ \"Cybersun\"",
+		PREPOSITIONAL = "ядре ИИ \"Cybersun\"",
 	)
 
 /mob/living/basic/dark_wizard/get_ru_names()
@@ -1098,14 +1003,34 @@
 		PREPOSITIONAL = "ледяной лани",
 	)
 
+/mob/living/basic/demon/get_ru_names()
+	return alist(
+		NOMINATIVE = "демон",
+		GENITIVE = "демона",
+		DATIVE = "демону",
+		ACCUSATIVE = "демона",
+		INSTRUMENTAL = "демоном",
+		PREPOSITIONAL = "демоне",
+	)
+
+/mob/living/basic/demon/slaughter/get_ru_names()
+	return alist(
+		NOMINATIVE = "демон крови",
+		GENITIVE = "демона крови",
+		DATIVE = "демону крови",
+		ACCUSATIVE = "демона крови",
+		INSTRUMENTAL = "демоном крови",
+		PREPOSITIONAL = "демоне крови",
+	)
+
 /mob/living/basic/demon/slaughter/engine_demon/get_ru_names()
 	return alist(
-		NOMINATIVE = "демон-двигатель",
-		GENITIVE = "демона-двигателя",
-		DATIVE = "демону-двигателю",
-		ACCUSATIVE = "демона-двигателя",
-		INSTRUMENTAL = "демоном-двигателем",
-		PREPOSITIONAL = "демоне-двигателе",
+		NOMINATIVE = "демон двигателя",
+		GENITIVE = "демона двигателя",
+		DATIVE = "демону двигателя",
+		ACCUSATIVE = "демона двигателя",
+		INSTRUMENTAL = "демоном двигателя",
+		PREPOSITIONAL = "демоне двигателя",
 	)
 
 /mob/living/basic/demon/slaughter/laughter/get_ru_names()
@@ -1118,54 +1043,54 @@
 		PREPOSITIONAL = "демоне смеха",
 	)
 
-/mob/living/basic/drone/classic/get_ru_names()
+/mob/living/basic/drone/get_ru_names()
 	return alist(
-		NOMINATIVE = "классический дрон",
-		GENITIVE = "классического дрона",
-		DATIVE = "классическому дрону",
-		ACCUSATIVE = "классического дрона",
-		INSTRUMENTAL = "классическим дроном",
-		PREPOSITIONAL = "классическом дроне",
+		NOMINATIVE = "дрон",
+		GENITIVE = "дрона",
+		DATIVE = "дрону",
+		ACCUSATIVE = "дрона",
+		INSTRUMENTAL = "дроном",
+		PREPOSITIONAL = "дроне",
 	)
 
 /mob/living/basic/drone/derelict/get_ru_names()
 	return alist(
-		NOMINATIVE = "дрон-заброшка",
-		GENITIVE = "дрона-заброшки",
-		DATIVE = "дрону-заброшке",
-		ACCUSATIVE = "дрона-заброшку",
-		INSTRUMENTAL = "дроном-заброшкой",
-		PREPOSITIONAL = "дроне-заброшке",
-	)
-
-/mob/living/basic/drone/polymorphed/get_ru_names()
-	return alist(
-		NOMINATIVE = "полиморфный дрон",
-		GENITIVE = "полиморфного дрона",
-		DATIVE = "полиморфному дрону",
-		ACCUSATIVE = "полиморфного дрона",
-		INSTRUMENTAL = "полиморфным дроном",
-		PREPOSITIONAL = "полиморфном дроне",
+		NOMINATIVE = "древний дрон",
+		GENITIVE = "древнего дрона",
+		DATIVE = "древнему дрону",
+		ACCUSATIVE = "древнего дрона",
+		INSTRUMENTAL = "древним дроном",
+		PREPOSITIONAL = "древнем дроне",
 	)
 
 /mob/living/basic/drone/snowflake/bardrone/get_ru_names()
 	return alist(
-		NOMINATIVE = "бардрон",
-		GENITIVE = "бардрона",
-		DATIVE = "бардрону",
-		ACCUSATIVE = "бардрона",
-		INSTRUMENTAL = "бардроном",
-		PREPOSITIONAL = "бардроне",
+		NOMINATIVE = "дрон-бармен",
+		GENITIVE = "дрона-бармена",
+		DATIVE = "дрону-бармену",
+		ACCUSATIVE = "дрона-бармена",
+		INSTRUMENTAL = "дроном-барменом",
+		PREPOSITIONAL = "дроне-бармене",
+	)
+
+/mob/living/basic/drone/syndrone/get_ru_names()
+	return alist(
+		NOMINATIVE = "синдрон",
+		GENITIVE = "синдрона",
+		DATIVE = "синдрону",
+		ACCUSATIVE = "синдрона",
+		INSTRUMENTAL = "синдроном",
+		PREPOSITIONAL = "синдроне",
 	)
 
 /mob/living/basic/drone/syndrone/badass/get_ru_names()
 	return alist(
-		NOMINATIVE = "крутой синдикатный дрон",
-		GENITIVE = "крутого синдикатного дрона",
-		DATIVE = "крутому синдикатному дрону",
-		ACCUSATIVE = "крутого синдикатного дрона",
-		INSTRUMENTAL = "крутым синдикатным дроном",
-		PREPOSITIONAL = "крутом синдикатном дроне",
+		NOMINATIVE = "крутой синдрон",
+		GENITIVE = "крутого синдрона",
+		DATIVE = "крутому синдрону",
+		ACCUSATIVE = "крутого синдрона",
+		INSTRUMENTAL = "крутым синдроном",
+		PREPOSITIONAL = "крутом синдроне",
 	)
 
 /mob/living/basic/eyeball/get_ru_names()
@@ -1180,15 +1105,25 @@
 
 /mob/living/basic/faithless/get_ru_names()
 	return alist(
-		NOMINATIVE = "Неверующий",
-		GENITIVE = "Неверующего",
-		DATIVE = "Неверующему",
-		ACCUSATIVE = "Неверующего",
-		INSTRUMENTAL = "Неверующим",
-		PREPOSITIONAL = "Неверующем",
+		NOMINATIVE = "неверующий",
+		GENITIVE = "неверующего",
+		DATIVE = "неверующему",
+		ACCUSATIVE = "неверующего",
+		INSTRUMENTAL = "неверующим",
+		PREPOSITIONAL = "неверующем",
 	)
 
-/mob/living/basic/fake_crewman/assistant/alt/get_ru_names()
+/mob/living/basic/fake_crewman/get_ru_names()
+	return alist(
+		NOMINATIVE = "член экипажа",
+		GENITIVE = "члена экипажа",
+		DATIVE = "члену экипажа",
+		ACCUSATIVE = "члена экипажа",
+		INSTRUMENTAL = "членом экипажа",
+		PREPOSITIONAL = "члене экипажа",
+	)
+
+/mob/living/basic/fake_crewman/assistant/get_ru_names()
 	return alist(
 		NOMINATIVE = "ассистент",
 		GENITIVE = "ассистента",
@@ -1198,7 +1133,7 @@
 		PREPOSITIONAL = "ассистенте",
 	)
 
-/mob/living/basic/fake_crewman/engi/mod/get_ru_names()
+/mob/living/basic/fake_crewman/engi/get_ru_names()
 	return alist(
 		NOMINATIVE = "инженер",
 		GENITIVE = "инженера",
@@ -1210,12 +1145,12 @@
 
 /mob/living/basic/flesh_spider/get_ru_names()
 	return alist(
-		NOMINATIVE = "плотяной паук",
-		GENITIVE = "плотяного паука",
-		DATIVE = "плотяному пауку",
-		ACCUSATIVE = "плотяного паука",
-		INSTRUMENTAL = "плотяным пауком",
-		PREPOSITIONAL = "плотяном пауке",
+		NOMINATIVE = "паук из плоти",
+		GENITIVE = "паука из плоти",
+		DATIVE = "пауку из плоти",
+		ACCUSATIVE = "паука из плоти",
+		INSTRUMENTAL = "пауком из плоти",
+		PREPOSITIONAL = "пауке из плоти",
 	)
 
 /mob/living/basic/fleshblob/get_ru_names()
@@ -1228,7 +1163,17 @@
 		PREPOSITIONAL = "куске плоти",
 	)
 
-/mob/living/basic/frog/crazy/rare/get_ru_names()
+/mob/living/basic/frog/get_ru_names()
+	return alist(
+		NOMINATIVE = "лягушка",
+		GENITIVE = "лягушки",
+		DATIVE = "лягушке",
+		ACCUSATIVE = "лягушку",
+		INSTRUMENTAL = "лягушкой",
+		PREPOSITIONAL = "лягушке",
+	)
+
+/mob/living/basic/frog/crazy/get_ru_names()
 	return alist(
 		NOMINATIVE = "безумная лягушка",
 		GENITIVE = "безумной лягушки",
@@ -1290,12 +1235,32 @@
 
 /mob/living/basic/ghost/swarm/get_ru_names()
 	return alist(
+		NOMINATIVE = "призрак",
+		GENITIVE = "призрака",
+		DATIVE = "призраку",
+		ACCUSATIVE = "призрака",
+		INSTRUMENTAL = "призраком",
+		PREPOSITIONAL = "призраке",
+	)
+
+/mob/living/basic/ghost/swarm/get_ru_names()
+	return alist(
 		NOMINATIVE = "мстительный дух",
 		GENITIVE = "мстительного духа",
 		DATIVE = "мстительному духу",
 		ACCUSATIVE = "мстительного духа",
 		INSTRUMENTAL = "мстительным духом",
 		PREPOSITIONAL = "мстительном духе",
+	)
+
+/mob/living/basic/goat/get_ru_names()
+	return alist(
+		NOMINATIVE = "коз",
+		GENITIVE = "козы",
+		DATIVE = "козе",
+		ACCUSATIVE = "козу",
+		INSTRUMENTAL = "козой",
+		PREPOSITIONAL = "козе",
 	)
 
 /mob/living/basic/goat/pete/get_ru_names()
@@ -1308,14 +1273,24 @@
 		PREPOSITIONAL = "Пите",
 	)
 
+/mob/living/basic/goose/get_ru_names()
+	return alist(
+		NOMINATIVE = "гусь",
+		GENITIVE = "гуся",
+		DATIVE = "гусю",
+		ACCUSATIVE = "гуся",
+		INSTRUMENTAL = "гусём",
+		PREPOSITIONAL = "гусе",
+	)
+
 /mob/living/basic/goose/vomit/get_ru_names()
 	return alist(
-		NOMINATIVE = "Птицелодка",
-		GENITIVE = "Птицелодки",
-		DATIVE = "Птицелодке",
-		ACCUSATIVE = "Птицелодку",
-		INSTRUMENTAL = "Птицелодкой",
-		PREPOSITIONAL = "Птицелодке",
+		NOMINATIVE = "мерзкий гусь",
+		GENITIVE = "мерзкого гуся",
+		DATIVE = "мерзкому гусю",
+		ACCUSATIVE = "мерзкого гуся",
+		INSTRUMENTAL = "мерзким гусем",
+		PREPOSITIONAL = "мерзком гусе",
 	)
 
 /mob/living/basic/gorilla/cargorilla/get_ru_names()
@@ -1358,124 +1333,134 @@
 		PREPOSITIONAL = "малой горилле",
 	)
 
+/mob/living/basic/guardian/get_ru_names()
+	return alist(
+		NOMINATIVE = "дух-хранитель",
+		GENITIVE = "духа-хранителя",
+		DATIVE = "духу-хранителю",
+		ACCUSATIVE = "духа-хранителя",
+		INSTRUMENTAL = "духом-хранителем",
+		PREPOSITIONAL = "духе-хранителе",
+	)
+
 /mob/living/basic/guardian/assassin/get_ru_names()
 	return alist(
-		NOMINATIVE = "ассасин-страж",
-		GENITIVE = "ассасина-стража",
-		DATIVE = "ассасину-стражу",
-		ACCUSATIVE = "ассасина-стража",
-		INSTRUMENTAL = "ассасином-стражем",
-		PREPOSITIONAL = "ассасине-страже",
+		NOMINATIVE = "ассасин-хранитель",
+		GENITIVE = "ассасина-хранителя",
+		DATIVE = "ассасину-хранителю",
+		ACCUSATIVE = "ассасина-хранителя",
+		INSTRUMENTAL = "ассасином-хранителем",
+		PREPOSITIONAL = "ассасине-хранителе",
 	)
 
 /mob/living/basic/guardian/charger/get_ru_names()
 	return alist(
-		NOMINATIVE = "ударный страж",
-		GENITIVE = "ударного стража",
-		DATIVE = "ударному стражу",
-		ACCUSATIVE = "ударного стража",
-		INSTRUMENTAL = "ударным стражем",
-		PREPOSITIONAL = "ударном страже",
+		NOMINATIVE = "ударный хранитель",
+		GENITIVE = "ударного хранителя",
+		DATIVE = "ударному хранителю",
+		ACCUSATIVE = "ударного хранителя",
+		INSTRUMENTAL = "ударным хранителем",
+		PREPOSITIONAL = "ударном хранителе",
 	)
 
 /mob/living/basic/guardian/dextrous/get_ru_names()
 	return alist(
-		NOMINATIVE = "ловкий страж",
-		GENITIVE = "ловкого стража",
-		DATIVE = "ловкому стражу",
-		ACCUSATIVE = "ловкого стража",
-		INSTRUMENTAL = "ловким стражем",
-		PREPOSITIONAL = "ловком страже",
+		NOMINATIVE = "ловкий хранитель",
+		GENITIVE = "ловкого хранителя",
+		DATIVE = "ловкому хранителю",
+		ACCUSATIVE = "ловкого хранителя",
+		INSTRUMENTAL = "ловким хранителем",
+		PREPOSITIONAL = "ловком хранителе",
 	)
 
 /mob/living/basic/guardian/explosive/get_ru_names()
 	return alist(
-		NOMINATIVE = "взрывной страж",
-		GENITIVE = "взрывного стража",
-		DATIVE = "взрывному стражу",
-		ACCUSATIVE = "взрывного стража",
-		INSTRUMENTAL = "взрывным стражем",
-		PREPOSITIONAL = "взрывном страже",
+		NOMINATIVE = "взрывной хранитель",
+		GENITIVE = "взрывного хранителя",
+		DATIVE = "взрывному хранителю",
+		ACCUSATIVE = "взрывного хранителя",
+		INSTRUMENTAL = "взрывным хранителем",
+		PREPOSITIONAL = "взрывном хранителе",
 	)
 
 /mob/living/basic/guardian/gaseous/get_ru_names()
 	return alist(
-		NOMINATIVE = "газовый страж",
-		GENITIVE = "газового стража",
-		DATIVE = "газовому стражу",
-		ACCUSATIVE = "газового стража",
-		INSTRUMENTAL = "газовым стражем",
-		PREPOSITIONAL = "газовом страже",
+		NOMINATIVE = "газовый хранитель",
+		GENITIVE = "газового хранителя",
+		DATIVE = "газовому хранителю",
+		ACCUSATIVE = "газового хранителя",
+		INSTRUMENTAL = "газовым хранителем",
+		PREPOSITIONAL = "газовом хранителе",
 	)
 
 /mob/living/basic/guardian/gravitokinetic/get_ru_names()
 	return alist(
-		NOMINATIVE = "гравитационный страж",
-		GENITIVE = "гравитационного стража",
-		DATIVE = "гравитационному стражу",
-		ACCUSATIVE = "гравитационного стража",
-		INSTRUMENTAL = "гравитационным стражем",
-		PREPOSITIONAL = "гравитационном страже",
+		NOMINATIVE = "гравитационный хранитель",
+		GENITIVE = "гравитационного хранителя",
+		DATIVE = "гравитационному хранителю",
+		ACCUSATIVE = "гравитационного хранителя",
+		INSTRUMENTAL = "гравитационным хранителем",
+		PREPOSITIONAL = "гравитационном хранителе",
 	)
 
 /mob/living/basic/guardian/lightning/get_ru_names()
 	return alist(
-		NOMINATIVE = "электрический страж",
-		GENITIVE = "электрического стража",
-		DATIVE = "электрическому стражу",
-		ACCUSATIVE = "электрического стража",
-		INSTRUMENTAL = "электрическим стражем",
-		PREPOSITIONAL = "электрическом страже",
+		NOMINATIVE = "электрический хранитель",
+		GENITIVE = "электрического хранителя",
+		DATIVE = "электрическому хранителю",
+		ACCUSATIVE = "электрического хранителя",
+		INSTRUMENTAL = "электрическим хранителем",
+		PREPOSITIONAL = "электрическом хранителе",
 	)
 
 /mob/living/basic/guardian/protector/get_ru_names()
 	return alist(
-		NOMINATIVE = "страж-защитник",
-		GENITIVE = "стража-защитника",
-		DATIVE = "стражу-защитнику",
-		ACCUSATIVE = "стража-защитника",
-		INSTRUMENTAL = "стражем-защитником",
-		PREPOSITIONAL = "страже-защитнике",
+		NOMINATIVE = "защитный хранитель",
+		GENITIVE = "защитного хранителя",
+		DATIVE = "защитному хранителю",
+		ACCUSATIVE = "защитного хранителя",
+		INSTRUMENTAL = "защитным хранителем",
+		PREPOSITIONAL = "защитном хранителе",
 	)
 
 /mob/living/basic/guardian/ranged/get_ru_names()
 	return alist(
-		NOMINATIVE = "стрелковый страж",
-		GENITIVE = "стрелкового стража",
-		DATIVE = "стрелковому стражу",
-		ACCUSATIVE = "стрелкового стража",
-		INSTRUMENTAL = "стрелковым стражем",
-		PREPOSITIONAL = "стрелковом страже",
+		NOMINATIVE = "хранитель-стрелок",
+		GENITIVE = "хранителя-стрелка",
+		DATIVE = "хранителю-стрелку",
+		ACCUSATIVE = "хранителя-стрелка",
+		INSTRUMENTAL = "хранителем-стрелком",
+		PREPOSITIONAL = "хранителе-стрелке",
 	)
 
 /mob/living/basic/guardian/standard/get_ru_names()
 	return alist(
-		NOMINATIVE = "стандартный страж",
-		GENITIVE = "стандартного стража",
-		DATIVE = "стандартному стражу",
-		ACCUSATIVE = "стандартного стража",
-		INSTRUMENTAL = "стандартным стражем",
-		PREPOSITIONAL = "стандартном страже",
+		NOMINATIVE = "стандартный хранитель",
+		GENITIVE = "стандартного хранителя",
+		DATIVE = "стандартному хранителю",
+		ACCUSATIVE = "стандартного хранителя",
+		INSTRUMENTAL = "стандартным хранителем",
+		PREPOSITIONAL = "стандартном хранителе",
 	)
 
 /mob/living/basic/guardian/support/get_ru_names()
 	return alist(
-		NOMINATIVE = "поддерживающий страж",
-		GENITIVE = "поддерживающего стража",
-		DATIVE = "поддерживающему стражу",
-		ACCUSATIVE = "поддерживающего стража",
-		INSTRUMENTAL = "поддерживающим стражем",
-		PREPOSITIONAL = "поддерживающем страже",
+		NOMINATIVE = "поддерживающий хранитель",
+		GENITIVE = "поддерживающего хранителя",
+		DATIVE = "поддерживающему хранителю",
+		ACCUSATIVE = "поддерживающего хранителя",
+		INSTRUMENTAL = "поддерживающим хранителем",
+		PREPOSITIONAL = "поддерживающем хранителе",
 	)
 
-/mob/living/basic/headslug/beakless/get_ru_names()
+/mob/living/basic/headslug/get_ru_names()
 	return alist(
-		NOMINATIVE = "безклювый головной слизень",
-		GENITIVE = "безклювого головного слизня",
-		DATIVE = "безклювому головному слизню",
-		ACCUSATIVE = "безклювого головного слизня",
-		INSTRUMENTAL = "безклювым головным слизнем",
-		PREPOSITIONAL = "безклювом головном слизне",
+		NOMINATIVE = "мозговой паразит",
+		GENITIVE = "мозгового паразита",
+		DATIVE = "мозговому паразиту",
+		ACCUSATIVE = "мозгового паразита",
+		INSTRUMENTAL = "мозговым паразитом",
+		PREPOSITIONAL = "мозговом паразите",
 	)
 
 /mob/living/basic/heretic_summon/armsy/get_ru_names()
@@ -1490,122 +1475,112 @@
 
 /mob/living/basic/heretic_summon/ash_spirit/get_ru_names()
 	return alist(
-		NOMINATIVE = "Пепельный Дух",
-		GENITIVE = "Пепельного Духа",
-		DATIVE = "Пепельному Духу",
-		ACCUSATIVE = "Пепельного Духа",
-		INSTRUMENTAL = "Пепельным Духом",
-		PREPOSITIONAL = "Пепельном Духе",
+		NOMINATIVE = "дух пепла",
+		GENITIVE = "духа пепла",
+		DATIVE = "духу пепла",
+		ACCUSATIVE = "духа пепла",
+		INSTRUMENTAL = "духом пепла",
+		PREPOSITIONAL = "духе пепла",
 	)
 
-/mob/living/basic/heretic_summon/fire_shark/wild/get_ru_names()
+/mob/living/basic/heretic_summon/fire_shark/get_ru_names()
 	return alist(
-		NOMINATIVE = "Огненная Акула",
-		GENITIVE = "Огненной Акулы",
-		DATIVE = "Огненной Акуле",
-		ACCUSATIVE = "Огненную Акулу",
-		INSTRUMENTAL = "Огненной Акулой",
-		PREPOSITIONAL = "Огненной Акуле",
+		NOMINATIVE = "огненная акула",
+		GENITIVE = "огненной акулы",
+		DATIVE = "огненной акуле",
+		ACCUSATIVE = "огненную акулу",
+		INSTRUMENTAL = "огненной акулой",
+		PREPOSITIONAL = "огненной акуле",
 	)
 
 /mob/living/basic/heretic_summon/maid_in_the_mirror/get_ru_names()
 	return alist(
-		NOMINATIVE = "Горничная в Зеркале",
-		GENITIVE = "Горничной в Зеркале",
-		DATIVE = "Горничной в Зеркале",
-		ACCUSATIVE = "Горничную в Зеркале",
-		INSTRUMENTAL = "Горничной в Зеркале",
-		PREPOSITIONAL = "Горничной в Зеркале",
+		NOMINATIVE = "дева-из-зеркала",
+		GENITIVE = "девы-из-зеркала",
+		DATIVE = "деве-из-зеркала",
+		ACCUSATIVE = "деву-из-зеркала",
+		INSTRUMENTAL = "девой-из-зеркала",
+		PREPOSITIONAL = "деве-из-зеркала",
 	)
 
-/mob/living/basic/heretic_summon/raw_prophet/ascended/get_ru_names()
+/mob/living/basic/heretic_summon/raw_prophet/get_ru_names()
 	return alist(
-		NOMINATIVE = "Вознёсшийся Сырой Пророк",
-		GENITIVE = "Вознёсшегося Сырого Пророка",
-		DATIVE = "Вознёсшемуся Сырому Пророку",
-		ACCUSATIVE = "Вознёсшегося Сырого Пророка",
-		INSTRUMENTAL = "Вознёсшимся Сырым Пророком",
-		PREPOSITIONAL = "Вознёсшемся Сыром Пророке",
-	)
-
-/mob/living/basic/heretic_summon/raw_prophet/ruins/get_ru_names()
-	return alist(
-		NOMINATIVE = "Сырой Пророк",
-		GENITIVE = "Сырого Пророка",
-		DATIVE = "Сырому Пророку",
-		ACCUSATIVE = "Сырого Пророка",
-		INSTRUMENTAL = "Сырым Пророком",
-		PREPOSITIONAL = "Сыром Пророке",
+		NOMINATIVE = "бескожий пророк",
+		GENITIVE = "бескожего пророка",
+		DATIVE = "бескожему пророку",
+		ACCUSATIVE = "бескожего пророка",
+		INSTRUMENTAL = "бескожим пророком",
+		PREPOSITIONAL = "бескожем пророке",
 	)
 
 /mob/living/basic/heretic_summon/rust_walker/get_ru_names()
 	return alist(
-		NOMINATIVE = "Ржавый Странник",
-		GENITIVE = "Ржавого Странника",
-		DATIVE = "Ржавому Страннику",
-		ACCUSATIVE = "Ржавого Странника",
-		INSTRUMENTAL = "Ржавым Странником",
-		PREPOSITIONAL = "Ржавом Страннике",
+		NOMINATIVE = "ржавый странник",
+		GENITIVE = "ржавого странника",
+		DATIVE = "ржавому страннику",
+		ACCUSATIVE = "ржавого странника",
+		INSTRUMENTAL = "ржавым странником",
+		PREPOSITIONAL = "ржавом страннике",
 	)
 
 /mob/living/basic/heretic_summon/stalker/get_ru_names()
 	return alist(
-		NOMINATIVE = "Плотяной Сталкер",
-		GENITIVE = "Плотяного Сталкера",
-		DATIVE = "Плотяному Сталкеру",
-		ACCUSATIVE = "Плотяного Сталкера",
-		INSTRUMENTAL = "Плотяным Сталкером",
-		PREPOSITIONAL = "Плотяном Сталкере",
+		NOMINATIVE = "мясной охотник",
+		GENITIVE = "мясного охотника",
+		DATIVE = "мясному охотнику",
+		ACCUSATIVE = "мясного охотника",
+		INSTRUMENTAL = "мясным охотником",
+		PREPOSITIONAL = "мясном охотнике",
 	)
 
 /mob/living/basic/heretic_summon/star_gazer/get_ru_names()
 	return alist(
-		NOMINATIVE = "Звёздный Созерцатель",
-		GENITIVE = "Звёздного Созерцателя",
-		DATIVE = "Звёздному Созерцателю",
-		ACCUSATIVE = "Звёздного Созерцателя",
-		INSTRUMENTAL = "Звёздным Созерцателем",
-		PREPOSITIONAL = "Звёздном Созерцателе",
-	)
-
-/mob/living/basic/hivebot/mechanic/get_ru_names()
-	return alist(
-		NOMINATIVE = "механик ульябота",
-		GENITIVE = "механика ульябота",
-		DATIVE = "механику ульябота",
-		ACCUSATIVE = "механика ульябота",
-		INSTRUMENTAL = "механиком ульябота",
-		PREPOSITIONAL = "механике ульябота",
+		NOMINATIVE = "Созерцатель Звёзд",
+		GENITIVE = "Созерцателя Звёзд",
+		DATIVE = "Созерцателю Звёзд",
+		ACCUSATIVE = "Созерцателя Звёзд",
+		INSTRUMENTAL = "Созерцателем Звёзд",
+		PREPOSITIONAL = "Созерцателе Звёзд",
 	)
 
 /mob/living/basic/hivebot/range/get_ru_names()
 	return alist(
-		NOMINATIVE = "ульябот",
-		GENITIVE = "ульябота",
-		DATIVE = "ульяботу",
-		ACCUSATIVE = "ульябота",
-		INSTRUMENTAL = "ульяботом",
-		PREPOSITIONAL = "ульяботе",
+		NOMINATIVE = "бот улья",
+		GENITIVE = "бота улья",
+		DATIVE = "боту улья",
+		ACCUSATIVE = "бота улья",
+		INSTRUMENTAL = "ботом улья",
+		PREPOSITIONAL = "боте улья",
+	)
+
+/mob/living/basic/hivebot/mechanic/get_ru_names()
+	return alist(
+		NOMINATIVE = "бот-механик улья",
+		GENITIVE = "бота-механика улья",
+		DATIVE = "боту-механику улья",
+		ACCUSATIVE = "бота-механика улья",
+		INSTRUMENTAL = "ботом-механиком улья",
+		PREPOSITIONAL = "боте-механике улья",
 	)
 
 /mob/living/basic/hivebot/rapid/get_ru_names()
 	return alist(
-		NOMINATIVE = "скоростной ульябот",
-		GENITIVE = "скоростного ульябота",
-		DATIVE = "скоростному ульяботу",
-		ACCUSATIVE = "скоростного ульябота",
-		INSTRUMENTAL = "скоростным ульяботом",
-		PREPOSITIONAL = "скоростном ульяботе",
+		NOMINATIVE = "скоростной бот улья",
+		GENITIVE = "скоростного бота улья",
+		DATIVE = "скоростному боту улья",
+		ACCUSATIVE = "скоростного бота улья",
+		INSTRUMENTAL = "скоростным ботом улья",
+		PREPOSITIONAL = "скоростном боте улья",
 	)
 
 /mob/living/basic/hivebot/strong/get_ru_names()
 	return alist(
-		NOMINATIVE = "сильный ульябот",
-		GENITIVE = "сильного ульябота",
-		DATIVE = "сильному ульяботу",
-		ACCUSATIVE = "сильного ульябота",
-		INSTRUMENTAL = "сильным ульяботом",
-		PREPOSITIONAL = "сильном ульяботе",
+		NOMINATIVE = "сильный бот улья",
+		GENITIVE = "сильного бота улья",
+		DATIVE = "сильному боту улья",
+		ACCUSATIVE = "сильного бота улья",
+		INSTRUMENTAL = "сильным ботом улья",
+		PREPOSITIONAL = "сильном боте улья",
 	)
 
 /mob/living/basic/hivelord_brood/get_ru_names()
@@ -1616,36 +1591,6 @@
 		ACCUSATIVE = "выводок улья",
 		INSTRUMENTAL = "выводком улья",
 		PREPOSITIONAL = "выводке улья",
-	)
-
-/mob/living/basic/illusion/escape/retaliate/get_ru_names()
-	return alist(
-		NOMINATIVE = "иллюзия",
-		GENITIVE = "иллюзии",
-		DATIVE = "иллюзии",
-		ACCUSATIVE = "иллюзию",
-		INSTRUMENTAL = "иллюзией",
-		PREPOSITIONAL = "иллюзии",
-	)
-
-/mob/living/basic/illusion/mirage/get_ru_names()
-	return alist(
-		NOMINATIVE = "мираж",
-		GENITIVE = "миража",
-		DATIVE = "миражу",
-		ACCUSATIVE = "мираж",
-		INSTRUMENTAL = "миражом",
-		PREPOSITIONAL = "мираже",
-	)
-
-/mob/living/basic/illusion/shover/get_ru_names()
-	return alist(
-		NOMINATIVE = "иллюзия",
-		GENITIVE = "иллюзии",
-		DATIVE = "иллюзии",
-		ACCUSATIVE = "иллюзию",
-		INSTRUMENTAL = "иллюзией",
-		PREPOSITIONAL = "иллюзии",
 	)
 
 /mob/living/basic/leaper/get_ru_names()
@@ -1668,7 +1613,7 @@
 		PREPOSITIONAL = "светящемся духе",
 	)
 
-/mob/living/basic/living_floor/white/get_ru_names()
+/mob/living/basic/living_floor/get_ru_names()
 	return alist(
 		NOMINATIVE = "пол",
 		GENITIVE = "пола",
@@ -1710,12 +1655,12 @@
 
 /mob/living/basic/lizard/wags_his_tail/get_ru_names()
 	return alist(
-		NOMINATIVE = "Виляющий-Своим-Хвостом",
-		GENITIVE = "Виляющего-Своим-Хвостом",
-		DATIVE = "Виляющему-Своим-Хвостом",
-		ACCUSATIVE = "Виляющего-Своим-Хвостом",
-		INSTRUMENTAL = "Виляющим-Своим-Хвостом",
-		PREPOSITIONAL = "Виляющем-Своим-Хвостом",
+		NOMINATIVE = "Виляющий-Хвостом",
+		GENITIVE = "Виляющего-Хвостом",
+		DATIVE = "Виляющему-Хвостом",
+		ACCUSATIVE = "Виляющего-Хвостом",
+		INSTRUMENTAL = "Виляющим-Хвостом",
+		PREPOSITIONAL = "Виляющем-Хвостом",
 	)
 
 /mob/living/basic/mad_piano/get_ru_names()
@@ -1730,62 +1675,52 @@
 
 /mob/living/basic/mega_arachnid/get_ru_names()
 	return alist(
-		NOMINATIVE = "мега-паукообразное",
-		GENITIVE = "мега-паукообразного",
-		DATIVE = "мега-паукообразному",
-		ACCUSATIVE = "мега-паукообразного",
-		INSTRUMENTAL = "мега-паукообразным",
-		PREPOSITIONAL = "мега-паукообразном",
+		NOMINATIVE = "мега-арахнид",
+		GENITIVE = "мега-арахнида",
+		DATIVE = "мега-арахниду",
+		ACCUSATIVE = "мега-арахнида",
+		INSTRUMENTAL = "мега-арахнидом",
+		PREPOSITIONAL = "мега-арахниде",
 	)
 
-/mob/living/basic/meteor_heart/opens_puzzle_door/get_ru_names()
+/mob/living/basic/meteor_heart/get_ru_names()
 	return alist(
-		NOMINATIVE = "метеорное сердце",
-		GENITIVE = "метеорного сердца",
-		DATIVE = "метеорному сердцу",
-		ACCUSATIVE = "метеорное сердце",
-		INSTRUMENTAL = "метеорным сердцем",
-		PREPOSITIONAL = "метеорном сердце",
+		NOMINATIVE = "мясоритное сердце",
+		GENITIVE = "мясоритного сердца",
+		DATIVE = "мясоритному сердцу",
+		ACCUSATIVE = "мясоритное сердце",
+		INSTRUMENTAL = "мясоритным сердцем",
+		PREPOSITIONAL = "мясоритном сердце",
+	)
+
+/mob/living/basic/migo/get_ru_names()
+	return alist(
+		NOMINATIVE = "ми-го",
+		GENITIVE = "ми-го",
+		DATIVE = "ми-го",
+		ACCUSATIVE = "ми-го",
+		INSTRUMENTAL = "ми-го",
+		PREPOSITIONAL = "ми-го",
 	)
 
 /mob/living/basic/migo/hatsune/get_ru_names()
 	return alist(
-		NOMINATIVE = "хацуне ми-го",
-		GENITIVE = "хацуне ми-го",
-		DATIVE = "хацуне ми-го",
-		ACCUSATIVE = "хацуне ми-го",
-		INSTRUMENTAL = "хацуне ми-го",
-		PREPOSITIONAL = "хацуне ми-го",
+		NOMINATIVE = "хацунэ ми-го",
+		GENITIVE = "хацунэ ми-го",
+		DATIVE = "хацунэ ми-го",
+		ACCUSATIVE = "хацунэ ми-го",
+		INSTRUMENTAL = "хацунэ ми-го",
+		PREPOSITIONAL = "хацунэ ми-го",
 	)
 
-/mob/living/basic/mimic/copy/machine/get_ru_names()
+/mob/living/basic/mining/bileworm/get_ru_names()
 	return alist(
-		NOMINATIVE = "мимик-машина",
-		GENITIVE = "мимика-машины",
-		DATIVE = "мимику-машине",
-		ACCUSATIVE = "мимика-машину",
-		INSTRUMENTAL = "мимиком-машиной",
-		PREPOSITIONAL = "мимике-машине",
-	)
-
-/mob/living/basic/mimic/copy/ranged/get_ru_names()
-	return alist(
-		NOMINATIVE = "стрелковый мимик",
-		GENITIVE = "стрелкового мимика",
-		DATIVE = "стрелковому мимику",
-		ACCUSATIVE = "стрелкового мимика",
-		INSTRUMENTAL = "стрелковым мимиком",
-		PREPOSITIONAL = "стрелковом мимике",
-	)
-
-/mob/living/basic/mimic/crate/xenobio/get_ru_names()
-	return alist(
-		NOMINATIVE = "ящик",
-		GENITIVE = "ящика",
-		DATIVE = "ящику",
-		ACCUSATIVE = "ящик",
-		INSTRUMENTAL = "ящиком",
-		PREPOSITIONAL = "ящике",
+		NOMINATIVE = "желчный червь",
+		GENITIVE = "желчного червя",
+		DATIVE = "желчному червю",
+		ACCUSATIVE = "желчного червя",
+		INSTRUMENTAL = "желчным червем",
+		PREPOSITIONAL = "желчном черве",
 	)
 
 /mob/living/basic/mining/bileworm/vileworm/get_ru_names()
@@ -1798,14 +1733,24 @@
 		PREPOSITIONAL = "мерзком черве",
 	)
 
-/mob/living/basic/mining/demon_afterimage/crusher/get_ru_names()
+/mob/living/basic/mining/demon_afterimage/get_ru_names()
 	return alist(
-		NOMINATIVE = "послеобраз дробителя",
-		GENITIVE = "послеобраза дробителя",
-		DATIVE = "послеобразу дробителя",
-		ACCUSATIVE = "послеобраз дробителя",
-		INSTRUMENTAL = "послеобразом дробителя",
-		PREPOSITIONAL = "послеобразе дробителя",
+		NOMINATIVE = "послеобраз",
+		GENITIVE = "послеобраза",
+		DATIVE = "послеобразу",
+		ACCUSATIVE = "послеобраз",
+		INSTRUMENTAL = "послеобразом",
+		PREPOSITIONAL = "послеобразе",
+	)
+
+/mob/living/basic/mining/goldgrub/get_ru_names()
+	return alist(
+		NOMINATIVE = "золотожор",
+		GENITIVE = "золотожора",
+		DATIVE = "золотожору",
+		ACCUSATIVE = "золотожора",
+		INSTRUMENTAL = "золотожором",
+		PREPOSITIONAL = "золотожоре",
 	)
 
 /mob/living/basic/mining/goldgrub/baby/get_ru_names()
@@ -1818,7 +1763,7 @@
 		PREPOSITIONAL = "детёныше золотожоре",
 	)
 
-/mob/living/basic/mining/goliath/deathmatch/get_ru_names()
+/mob/living/basic/mining/goliath/get_ru_names()
 	return alist(
 		NOMINATIVE = "голиаф",
 		GENITIVE = "голиафа",
@@ -1828,14 +1773,24 @@
 		PREPOSITIONAL = "голиафе",
 	)
 
+/mob/living/basic/mining/gutlunch/get_ru_names()
+	return alist(
+		NOMINATIVE = "кишкожор",
+		GENITIVE = "кишкожора",
+		DATIVE = "кишкожору",
+		ACCUSATIVE = "кишкожора",
+		INSTRUMENTAL = "кишкожором",
+		PREPOSITIONAL = "кишкожоре",
+	)
+
 /mob/living/basic/mining/gutlunch/grub/get_ru_names()
 	return alist(
-		NOMINATIVE = "личинкообед",
-		GENITIVE = "личинкообеда",
-		DATIVE = "личинкообеду",
-		ACCUSATIVE = "личинкообед",
-		INSTRUMENTAL = "личинкообедом",
-		PREPOSITIONAL = "личинкообеде",
+		NOMINATIVE = "личинкожор",
+		GENITIVE = "личинкожора",
+		DATIVE = "личинкожору",
+		ACCUSATIVE = "личинкожора",
+		INSTRUMENTAL = "личинкожором",
+		PREPOSITIONAL = "личинкожоре",
 	)
 
 /mob/living/basic/mining/gutlunch/milk/get_ru_names()
@@ -1858,14 +1813,34 @@
 		PREPOSITIONAL = "гюнтере",
 	)
 
+/mob/living/basic/mining/hivelord/get_ru_names()
+	return alist(
+		NOMINATIVE = "повелитель улья",
+		GENITIVE = "повелителя улья",
+		DATIVE = "повелителю улья",
+		ACCUSATIVE = "повелителя улья",
+		INSTRUMENTAL = "повелителем улья",
+		PREPOSITIONAL = "повелителе улья",
+	)
+
+/mob/living/basic/mining/ice_whelp/get_ru_names()
+	return alist(
+		NOMINATIVE = "ледяное отродье",
+		GENITIVE = "ледяного отродья",
+		DATIVE = "ледяному отродью",
+		ACCUSATIVE = "ледяное отродье",
+		INSTRUMENTAL = "ледяным отродьем",
+		PREPOSITIONAL = "ледяном отродье",
+	)
+
 /mob/living/basic/mining/ice_whelp/ash/get_ru_names()
 	return alist(
-		NOMINATIVE = "пепельный детёныш",
-		GENITIVE = "пепельного детёныша",
-		DATIVE = "пепельному детёнышу",
-		ACCUSATIVE = "пепельного детёныша",
-		INSTRUMENTAL = "пепельным детёнышем",
-		PREPOSITIONAL = "пепельном детёныше",
+		NOMINATIVE = "пепельное отродье",
+		GENITIVE = "пепельного отродья",
+		DATIVE = "пепельному отродью",
+		ACCUSATIVE = "пепельное отродье",
+		INSTRUMENTAL = "пепельным отродьем",
+		PREPOSITIONAL = "пепельном отродье",
 	)
 
 /mob/living/basic/mining/legion/cult_skeleton/get_ru_names()
