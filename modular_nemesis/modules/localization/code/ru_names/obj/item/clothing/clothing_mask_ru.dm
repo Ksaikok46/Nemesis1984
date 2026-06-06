@@ -264,7 +264,7 @@
 		GENITIVE = "банданы",
 		DATIVE = "бандане",
 		ACCUSATIVE = "бандану",
-		INSTRUMENTAL = "бандой",
+		INSTRUMENTAL = "банданой",
 		PREPOSITIONAL = "бандане",
 	)
 
