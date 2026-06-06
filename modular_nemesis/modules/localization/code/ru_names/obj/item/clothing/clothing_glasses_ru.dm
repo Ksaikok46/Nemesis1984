@@ -32,7 +32,7 @@
 	return alist(
 		NOMINATIVE = "зимние очки",
 		GENITIVE = "зимних очков",
-		DATIVE = "зммним очкам",
+		DATIVE = "зимним очкам",
 		ACCUSATIVE = "зимние очки",
 		INSTRUMENTAL = "зимними очками",
 		PREPOSITIONAL = "зимних очках",
@@ -116,16 +116,6 @@
 		ACCUSATIVE = "термостойкие очки",
 		INSTRUMENTAL = "термостойкими очками",
 		PREPOSITIONAL = "термостойких очках",
-	)
-
-/obj/item/clothing/glasses/hud/get_ru_names()
-	return alist(
-		NOMINATIVE = "ИЛС-очки",
-		GENITIVE = "ИЛС-очков",
-		DATIVE = "ИЛС-очкам",
-		ACCUSATIVE = "ИЛС-очки",
-		INSTRUMENTAL = "ИЛС-очками",
-		PREPOSITIONAL = "ИЛС-очках",
 	)
 
 /obj/item/clothing/glasses/hud/diagnostic/get_ru_names()
@@ -268,24 +258,26 @@
 		PREPOSITIONAL = "глазной повязке ИЛС",
 	)
 
+// Как я понял GAR это какой-то мем с форчана и это не переводится
+// "describes a character who is extremely, ruggedly manly and tough"
 /obj/item/clothing/glasses/hud/security/sunglasses/gars/get_ru_names()
 	return alist(
-		NOMINATIVE = "охранные ИЛС-очки \"Гар\"",
-		GENITIVE = "охранные ИЛС-очков \"Гар\"",
-		DATIVE = "охранные ИЛС-очкам \"Гар\"",
-		ACCUSATIVE = "охранные ИЛС-очки \"Гар\"",
-		INSTRUMENTAL = "охранные ИЛС-очками \"Гар\"",
-		PREPOSITIONAL = "охранные ИЛС-очках \"Гар\"",
+		NOMINATIVE = "охранные ИЛС-очки \"GAR\"",
+		GENITIVE = "охранные ИЛС-очков \"GAR\"",
+		DATIVE = "охранные ИЛС-очкам \"GAR\"",
+		ACCUSATIVE = "охранные ИЛС-очки \"GAR\"",
+		INSTRUMENTAL = "охранные ИЛС-очками \"GAR\"",
+		PREPOSITIONAL = "охранные ИЛС-очках \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/hud/security/sunglasses/gars/giga/get_ru_names()
 	return alist(
-		NOMINATIVE = "охранные гига ИЛС-очки \"Гар\"",
-		GENITIVE = "охранные гига ИЛС-очков \"Гар\"",
-		DATIVE = "охранные гига ИЛС-очкам \"Гар\"",
-		ACCUSATIVE = "охранные гига ИЛС-очки \"Гар\"",
-		INSTRUMENTAL = "охранные гига ИЛС-очками \"Гар\"",
-		PREPOSITIONAL = "охранные гига ИЛС-очках \"Гар\"",
+		NOMINATIVE = "охранные гига ИЛС-очки \"GAR\"",
+		GENITIVE = "охранные гига ИЛС-очков \"GAR\"",
+		DATIVE = "охранные гига ИЛС-очкам \"GAR\"",
+		ACCUSATIVE = "охранные гига ИЛС-очки \"GAR\"",
+		INSTRUMENTAL = "охранные гига ИЛС-очками \"GAR\"",
+		PREPOSITIONAL = "охранные гига ИЛС-очках \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/hud/spacecop/get_ru_names()
@@ -340,12 +332,12 @@
 
 /obj/item/clothing/glasses/material/mining/gar/get_ru_names()
 	return alist(
-		NOMINATIVE = "сканер материалов \"Гар\"",
-		GENITIVE = "сканера материалов \"Гар\"",
-		DATIVE = "сканеру материалов \"Гар\"",
-		ACCUSATIVE = "сканер материалов \"Гар\"",
-		INSTRUMENTAL = "сканером материалов \"Гар\"",
-		PREPOSITIONAL = "сканере материалов \"Гар\"",
+		NOMINATIVE = "сканер материалов \"GAR\"",
+		GENITIVE = "сканера материалов \"GAR\"",
+		DATIVE = "сканеру материалов \"GAR\"",
+		ACCUSATIVE = "сканер материалов \"GAR\"",
+		INSTRUMENTAL = "сканером материалов \"GAR\"",
+		PREPOSITIONAL = "сканере материалов \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/meson/get_ru_names()
@@ -410,12 +402,12 @@
 
 /obj/item/clothing/glasses/meson/gar/get_ru_names()
 	return alist(
-		NOMINATIVE = "мезонные очки \"Гар\"",
-		GENITIVE = "мезонных очков \"Гар\"",
-		DATIVE = "мезонным очкам \"Гар\"",
-		ACCUSATIVE = "мезонные очки \"Гар\"",
-		INSTRUMENTAL = "мезонными очками \"Гар\"",
-		PREPOSITIONAL = "мезонных очках \"Гар\"",
+		NOMINATIVE = "мезонные очки \"GAR\"",
+		GENITIVE = "мезонных очков \"GAR\"",
+		DATIVE = "мезонным очкам \"GAR\"",
+		ACCUSATIVE = "мезонные очки \"GAR\"",
+		INSTRUMENTAL = "мезонными очками \"GAR\"",
+		PREPOSITIONAL = "мезонных очках \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/meson/night/get_ru_names()
@@ -500,12 +492,12 @@
 
 /obj/item/clothing/glasses/phantom/get_ru_names()
 	return alist(
-		NOMINATIVE = "очки Фантомного вора",
-		GENITIVE = "очков Фантомного вора",
-		DATIVE = "очкам Фантомного вора",
-		ACCUSATIVE = "очки Фантомного вора",
-		INSTRUMENTAL = "очками Фантомного вора",
-		PREPOSITIONAL = "очках Фантомного вора",
+		NOMINATIVE = "очки фантомного вора",
+		GENITIVE = "очков фантомного вора",
+		DATIVE = "очкам фантомного вора",
+		ACCUSATIVE = "очки фантомного вора",
+		INSTRUMENTAL = "очками фантомного вора",
+		PREPOSITIONAL = "очках фантомного вора",
 	)
 
 /obj/item/clothing/glasses/prism_glasses/get_ru_names()
@@ -640,42 +632,42 @@
 
 /obj/item/clothing/glasses/sunglasses/gar/get_ru_names()
 	return alist(
-		NOMINATIVE = "чёрные очки \"Гар\"",
-		GENITIVE = "чёрных очков \"Гар\"",
-		DATIVE = "чёрным очкам \"Гар\"",
-		ACCUSATIVE = "чёрные очки \"Гар\"",
-		INSTRUMENTAL = "чёрными очками \"Гар\"",
-		PREPOSITIONAL = "чёрных очках \"Гар\"",
+		NOMINATIVE = "чёрные очки \"GAR\"",
+		GENITIVE = "чёрных очков \"GAR\"",
+		DATIVE = "чёрным очкам \"GAR\"",
+		ACCUSATIVE = "чёрные очки \"GAR\"",
+		INSTRUMENTAL = "чёрными очками \"GAR\"",
+		PREPOSITIONAL = "чёрных очках \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/sunglasses/gar/giga/get_ru_names()
 	return alist(
-		NOMINATIVE = "чёрные гига-очки \"Гар\"",
-		GENITIVE = "чёрных гига-очков \"Гар\"",
-		DATIVE = "чёрным гига-очкам \"Гар\"",
-		ACCUSATIVE = "чёрные гига-очки \"Гар\"",
-		INSTRUMENTAL = "чёрными гига-очками \"Гар\"",
-		PREPOSITIONAL = "чёрных гига-очках \"Гар\"",
+		NOMINATIVE = "чёрные гига-очки \"GAR\"",
+		GENITIVE = "чёрных гига-очков \"GAR\"",
+		DATIVE = "чёрным гига-очкам \"GAR\"",
+		ACCUSATIVE = "чёрные гига-очки \"GAR\"",
+		INSTRUMENTAL = "чёрными гига-очками \"GAR\"",
+		PREPOSITIONAL = "чёрных гига-очках \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/sunglasses/gar/giga/red/get_ru_names()
 	return alist(
-		NOMINATIVE = "гига-очки \"Гар\"",
-		GENITIVE = "гига-очков \"Гар\"",
-		DATIVE = "гига-очкам \"Гар\"",
-		ACCUSATIVE = "гига-очки \"Гар\"",
-		INSTRUMENTAL = "гига-очками \"Гар\"",
-		PREPOSITIONAL = "гига-очках \"Гар\"",
+		NOMINATIVE = "гига-очки \"GAR\"",
+		GENITIVE = "гига-очков \"GAR\"",
+		DATIVE = "гига-очкам \"GAR\"",
+		ACCUSATIVE = "гига-очки \"GAR\"",
+		INSTRUMENTAL = "гига-очками \"GAR\"",
+		PREPOSITIONAL = "гига-очках \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/sunglasses/gar/orange/get_ru_names()
 	return alist(
-		NOMINATIVE = "оранжевые очки \"Гар\"",
-		GENITIVE = "оранжевых очков \"Гар\"",
-		DATIVE = "оранжевым очкам \"Гар\"",
-		ACCUSATIVE = "оранжевые очки \"Гар\"",
-		INSTRUMENTAL = "оранжевыми очками \"Гар\"",
-		PREPOSITIONAL = "оранжевых очках \"Гар\"",
+		NOMINATIVE = "оранжевые очки \"GAR\"",
+		GENITIVE = "оранжевых очков \"GAR\"",
+		DATIVE = "оранжевым очкам \"GAR\"",
+		ACCUSATIVE = "оранжевые очки \"GAR\"",
+		INSTRUMENTAL = "оранжевыми очками \"GAR\"",
+		PREPOSITIONAL = "оранжевых очках \"GAR\"",
 	)
 
 /obj/item/clothing/glasses/sunglasses/noir/get_ru_names()
