@@ -1,13 +1,3 @@
-/mob/living/carbon/alien/get_ru_names()
-	return alist(
-		NOMINATIVE = "ксеноморф",
-		GENITIVE = "ксеноморфа",
-		DATIVE = "ксеноморфу",
-		ACCUSATIVE = "ксеноморфа",
-		INSTRUMENTAL = "ксеноморфом",
-		PREPOSITIONAL = "ксеноморфе",
-	)
-
 /mob/living/carbon/alien/adult/drone/get_ru_names()
 	return alist(
 		NOMINATIVE = "ксеноморф-трутень",
