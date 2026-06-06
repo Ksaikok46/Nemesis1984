@@ -662,7 +662,7 @@
 		PREPOSITIONAL = "перчатках \"Каза-рук\"",
 	)
 
-// Какая-то ебучая отсылка на диско элизиум
+// Какая-то отсылка на диско элизиум
 /obj/item/clothing/gloves/kim/get_ru_names()
 	return alist(
 		NOMINATIVE = "аэростатические перчатки",
@@ -763,6 +763,7 @@
 		PREPOSITIONAL = "переводческих перчатках",
 	)
 
+// Отсылка на название аниме, так что вот так
 /obj/item/clothing/gloves/rapid/get_ru_names()
 	return alist(
 		NOMINATIVE = "перчатки \"Полярной Звезды\"",
